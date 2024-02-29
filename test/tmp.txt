@@ -1,0 +1,1948 @@
+../..:
+total 108
+drwxr-xr-x  3 fberthou 2023_lyon    39 Jan 11 09:03 .
+drwx------ 28 fberthou 2023_lyon  8192 Feb 23 00:03 ..
+drwxr-xr-x  8 fberthou 2023_lyon   104 Feb 22 18:30 42cursus
+-rwxrwxrwx  1 bocal    bocal     95668 Dec 22 15:37 trace.png
+
+../../42cursus:
+total 0
+drwxr-xr-x 8 fberthou 2023_lyon 104 Feb 22 18:30 .
+drwxr-xr-x 3 fberthou 2023_lyon  39 Jan 11 09:03 ..
+drwxr-xr-x 4 fberthou 2023_lyon  37 Feb 10 01:35 1_circle
+drwxr-xr-x 5 fberthou 2023_lyon  64 Jan 16 18:09 2_circle
+drwxr-xr-x 6 fberthou 2023_lyon  80 Feb 20 22:42 3_circle
+drwxr-xr-x 7 fberthou 2023_lyon 134 Feb 23 00:03 minitalk
+drwxr-xr-x 3 fberthou 2023_lyon  21 Jan 27 10:02 rushes
+drwxr-xr-x 4 fberthou 2023_lyon  34 Feb 15 18:13 unterminated
+
+../../42cursus/1_circle:
+total 4
+drwxr-xr-x 4 fberthou 2023_lyon   37 Feb 10 01:35 .
+drwxr-xr-x 8 fberthou 2023_lyon  104 Feb 22 18:30 ..
+drwxr-xr-x 6 fberthou 2023_lyon   72 Feb 13 23:01 libft
+drwxr-xr-x 3 fberthou 2023_lyon 4096 Feb  6 09:14 repo_libft
+
+../../42cursus/1_circle/libft:
+total 8
+drwxr-xr-x 6 fberthou 2023_lyon   72 Feb 13 23:01 .
+drwxr-xr-x 4 fberthou 2023_lyon   37 Feb 10 01:35 ..
+drwxr-xr-x 4 fberthou 2023_lyon   28 Feb 13 22:26 build
+drwxr-xr-x 2 fberthou 2023_lyon   21 Feb 13 22:50 hdr
+-rw-r--r-- 1 fberthou 2023_lyon 2720 Feb 13 22:37 Makefile
+drwxr-xr-x 2 fberthou 2023_lyon 4096 Feb 13 22:30 src
+drwxr-xr-x 2 fberthou 2023_lyon   27 Feb 13 22:44 .vscode
+
+../../42cursus/1_circle/libft/build:
+total 0
+drwxr-xr-x 4 fberthou 2023_lyon 28 Feb 13 22:26 .
+drwxr-xr-x 6 fberthou 2023_lyon 72 Feb 13 23:01 ..
+drwxr-xr-x 2 fberthou 2023_lyon 22 Feb 13 23:01 dep
+drwxr-xr-x 2 fberthou 2023_lyon 22 Feb 13 23:01 obj
+
+../../42cursus/1_circle/libft/build/dep:
+total 0
+drwxr-xr-x 2 fberthou 2023_lyon 22 Feb 13 23:01 .
+drwxr-xr-x 4 fberthou 2023_lyon 28 Feb 13 22:26 ..
+-rw-r--r-- 1 fberthou 2023_lyon  0 Feb 13 22:26 .gitkeep
+
+../../42cursus/1_circle/libft/build/obj:
+total 0
+drwxr-xr-x 2 fberthou 2023_lyon 22 Feb 13 23:01 .
+drwxr-xr-x 4 fberthou 2023_lyon 28 Feb 13 22:26 ..
+-rw-r--r-- 1 fberthou 2023_lyon  0 Feb 13 22:26 .gitkeep
+
+../../42cursus/1_circle/libft/hdr:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon   21 Feb 13 22:50 .
+drwxr-xr-x 6 fberthou 2023_lyon   72 Feb 13 23:01 ..
+-rw-r--r-- 1 fberthou 2023_lyon 3434 Feb 13 22:52 libft.h
+
+../../42cursus/1_circle/libft/src:
+total 184
+drwxr-xr-x 2 fberthou 2023_lyon 4096 Feb 13 22:30 .
+drwxr-xr-x 6 fberthou 2023_lyon   72 Feb 13 23:01 ..
+-rw-r--r-- 1 fberthou 2023_lyon 1797 Feb 13 22:58 ft_atoi.c
+-rw-r--r-- 1 fberthou 2023_lyon 1029 Feb 13 22:55 ft_bzero.c
+-rw-r--r-- 1 fberthou 2023_lyon 1189 Feb 13 22:58 ft_calloc.c
+-rw-r--r-- 1 fberthou 2023_lyon 1066 Feb 10 01:35 ft_isalnum.c
+-rw-r--r-- 1 fberthou 2023_lyon 1022 Feb 10 01:35 ft_isalpha.c
+-rw-r--r-- 1 fberthou 2023_lyon  977 Feb 10 01:35 ft_isascii.c
+-rw-r--r-- 1 fberthou 2023_lyon  970 Feb 10 01:35 ft_isdigit.c
+-rw-r--r-- 1 fberthou 2023_lyon  978 Feb 10 01:35 ft_isprint.c
+-rw-r--r-- 1 fberthou 2023_lyon 1691 Feb 13 22:58 ft_itoa.c
+-rw-r--r-- 1 fberthou 2023_lyon 1090 Feb 13 22:58 ft_lstadd_back_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon 1101 Feb 13 22:58 ft_lstadd_front_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon 1138 Feb 13 22:58 ft_lstclear_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon 1091 Feb 13 22:58 ft_lstdelone_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon 1062 Feb 13 22:58 ft_lstiter_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon 1065 Feb 13 22:58 ft_lstlast_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon 1408 Feb 13 22:58 ft_lstmap_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon 1086 Feb 13 22:58 ft_lstnew_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon 1054 Feb 13 22:56 ft_lstsize_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon 1157 Feb 13 22:56 ft_memchr.c
+-rw-r--r-- 1 fberthou 2023_lyon 1162 Feb 13 22:56 ft_memcmp.c
+-rw-r--r-- 1 fberthou 2023_lyon 1125 Feb 13 22:57 ft_memcpy.c
+-rw-r--r-- 1 fberthou 2023_lyon 1265 Feb 13 22:57 ft_memmove.c
+-rw-r--r-- 1 fberthou 2023_lyon 1064 Feb 13 22:57 ft_memset.c
+-rw-r--r-- 1 fberthou 2023_lyon 1914 Feb 13 22:51 ft_printf.c
+-rw-r--r-- 1 fberthou 2023_lyon 2261 Feb 13 22:50 ft_printf_utils.c
+-rw-r--r-- 1 fberthou 2023_lyon  987 Feb 13 22:57 ft_putchar_fd.c
+-rw-r--r-- 1 fberthou 2023_lyon 1076 Feb 13 22:57 ft_putendl_fd.c
+-rw-r--r-- 1 fberthou 2023_lyon 1275 Feb 13 22:57 ft_putnbr_fd.c
+-rw-r--r-- 1 fberthou 2023_lyon 1029 Feb 13 22:57 ft_putstr_fd.c
+-rw-r--r-- 1 fberthou 2023_lyon 1893 Feb 13 22:57 ft_split.c
+-rw-r--r-- 1 fberthou 2023_lyon 1151 Feb 13 22:57 ft_strchr.c
+-rw-r--r-- 1 fberthou 2023_lyon 1139 Feb 13 22:57 ft_strdup.c
+-rw-r--r-- 1 fberthou 2023_lyon 1079 Feb 13 22:57 ft_striteri.c
+-rw-r--r-- 1 fberthou 2023_lyon 1286 Feb 13 22:58 ft_strjoin.c
+-rw-r--r-- 1 fberthou 2023_lyon 1322 Feb 13 22:58 ft_strlcat.c
+-rw-r--r-- 1 fberthou 2023_lyon 1169 Feb 13 22:58 ft_strlcpy.c
+-rw-r--r-- 1 fberthou 2023_lyon 1009 Feb 13 22:58 ft_strlen.c
+-rw-r--r-- 1 fberthou 2023_lyon 1194 Feb 13 22:58 ft_strmapi.c
+-rw-r--r-- 1 fberthou 2023_lyon 1140 Feb 13 22:58 ft_strncmp.c
+-rw-r--r-- 1 fberthou 2023_lyon 1312 Feb 13 22:58 ft_strnstr.c
+-rw-r--r-- 1 fberthou 2023_lyon 1170 Feb 13 22:58 ft_strrchr.c
+-rw-r--r-- 1 fberthou 2023_lyon 2156 Feb 13 22:58 ft_strtrim.c
+-rw-r--r-- 1 fberthou 2023_lyon 1460 Feb 13 22:58 ft_substr.c
+-rw-r--r-- 1 fberthou 2023_lyon  983 Feb 10 01:35 ft_tolower.c
+-rw-r--r-- 1 fberthou 2023_lyon  984 Feb 10 01:35 ft_toupper.c
+
+../../42cursus/1_circle/libft/.vscode:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon 27 Feb 13 22:44 .
+drwxr-xr-x 6 fberthou 2023_lyon 72 Feb 13 23:01 ..
+-rw-r--r-- 1 fberthou 2023_lyon 89 Feb 13 22:58 settings.json
+
+../../42cursus/1_circle/repo_libft:
+total 204
+drwxr-xr-x 3 fberthou 2023_lyon  4096 Feb  6 09:14 .
+drwxr-xr-x 4 fberthou 2023_lyon    37 Feb 10 01:35 ..
+-rwxr-xr-x 1 fberthou 2023_lyon 16608 Nov 28 14:54 a.out
+-rw-r--r-- 1 fberthou 2023_lyon  1790 Nov 28 11:24 ft_atoi.c
+-rw-r--r-- 1 fberthou 2023_lyon  1022 Nov 27 12:59 ft_bzero.c
+-rw-r--r-- 1 fberthou 2023_lyon  1182 Nov 27 15:54 ft_calloc.c
+-rw-r--r-- 1 fberthou 2023_lyon  1066 Nov 27 12:06 ft_isalnum.c
+-rw-r--r-- 1 fberthou 2023_lyon  1022 Nov 27 12:51 ft_isalpha.c
+-rw-r--r-- 1 fberthou 2023_lyon   977 Nov 27 13:00 ft_isascii.c
+-rw-r--r-- 1 fberthou 2023_lyon   970 Nov 27 12:52 ft_isdigit.c
+-rw-r--r-- 1 fberthou 2023_lyon   978 Nov 27 12:52 ft_isprint.c
+-rw-r--r-- 1 fberthou 2023_lyon  1684 Nov 27 14:49 ft_itoa.c
+-rw-r--r-- 1 fberthou 2023_lyon  1083 Nov 29 11:36 ft_lstadd_back_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon  1094 Nov 28 13:16 ft_lstadd_front_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon  1131 Nov 28 14:41 ft_lstclear_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon  1084 Nov 28 13:34 ft_lstdelone_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon  1055 Nov 28 13:38 ft_lstiter_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon  1058 Nov 28 11:38 ft_lstlast_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon  1401 Nov 28 15:31 ft_lstmap_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon  1079 Nov 28 14:54 ft_lstnew_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon  1047 Nov 21 16:04 ft_lstsize_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon  1150 Nov 27 13:37 ft_memchr.c
+-rw-r--r-- 1 fberthou 2023_lyon  1155 Nov 27 13:43 ft_memcmp.c
+-rw-r--r-- 1 fberthou 2023_lyon  1118 Nov 28 14:57 ft_memcpy.c
+-rw-r--r-- 1 fberthou 2023_lyon  1258 Nov 28 14:57 ft_memmove.c
+-rw-r--r-- 1 fberthou 2023_lyon  1057 Nov 27 13:01 ft_memset.c
+-rw-r--r-- 1 fberthou 2023_lyon   980 Nov 27 14:56 ft_putchar_fd.c
+-rw-r--r-- 1 fberthou 2023_lyon  1069 Nov 27 15:00 ft_putendl_fd.c
+-rw-r--r-- 1 fberthou 2023_lyon  1268 Nov 27 15:00 ft_putnbr_fd.c
+-rw-r--r-- 1 fberthou 2023_lyon  1022 Nov 27 14:57 ft_putstr_fd.c
+-rw-r--r-- 1 fberthou 2023_lyon  1886 Nov 27 14:47 ft_split.c
+-rw-r--r-- 1 fberthou 2023_lyon  1144 Nov 27 13:25 ft_strchr.c
+-rw-r--r-- 1 fberthou 2023_lyon  1132 Nov 27 13:51 ft_strdup.c
+-rw-r--r-- 1 fberthou 2023_lyon  1072 Nov 27 14:53 ft_striteri.c
+-rw-r--r-- 1 fberthou 2023_lyon  1279 Nov 27 14:01 ft_strjoin.c
+-rw-r--r-- 1 fberthou 2023_lyon  1315 Nov 27 13:10 ft_strlcat.c
+-rw-r--r-- 1 fberthou 2023_lyon  1162 Nov 27 13:07 ft_strlcpy.c
+-rw-r--r-- 1 fberthou 2023_lyon  1002 Nov 27 12:53 ft_strlen.c
+-rw-r--r-- 1 fberthou 2023_lyon  1187 Nov 27 14:52 ft_strmapi.c
+-rw-r--r-- 1 fberthou 2023_lyon  1133 Nov 27 13:36 ft_strncmp.c
+-rw-r--r-- 1 fberthou 2023_lyon  1305 Nov 27 13:49 ft_strnstr.c
+-rw-r--r-- 1 fberthou 2023_lyon  1163 Nov 27 13:32 ft_strrchr.c
+-rw-r--r-- 1 fberthou 2023_lyon  2149 Nov 27 14:42 ft_strtrim.c
+-rw-r--r-- 1 fberthou 2023_lyon  1453 Nov 27 13:54 ft_substr.c
+-rw-r--r-- 1 fberthou 2023_lyon   983 Nov 27 13:12 ft_tolower.c
+-rw-r--r-- 1 fberthou 2023_lyon   984 Nov 27 13:11 ft_toupper.c
+drwxr-xr-x 8 fberthou 2023_lyon   201 Nov 28 15:39 .git
+-rw-r--r-- 1 fberthou 2023_lyon  2984 Nov 27 15:32 libft.h
+-rw-r--r-- 1 fberthou 2023_lyon  1061 Nov 29 11:49 Makefile
+
+../../42cursus/1_circle/repo_libft/.git:
+total 36
+drwxr-xr-x   8 fberthou 2023_lyon  201 Nov 28 15:39 .
+drwxr-xr-x   3 fberthou 2023_lyon 4096 Feb  6 09:14 ..
+drwxr-xr-x   2 fberthou 2023_lyon    6 Nov 14 17:49 branches
+-rw-r--r--   1 fberthou 2023_lyon   12 Nov 28 15:39 COMMIT_EDITMSG
+-rw-r--r--   1 fberthou 2023_lyon  454 Nov 20 14:37 config
+-rw-r--r--   1 fberthou 2023_lyon   73 Nov 14 17:49 description
+-rw-r--r--   1 fberthou 2023_lyon  101 Nov 27 07:54 FETCH_HEAD
+-rw-r--r--   1 fberthou 2023_lyon   23 Nov 14 17:49 HEAD
+drwxr-xr-x   2 fberthou 2023_lyon  332 Nov 14 17:49 hooks
+-rw-r--r--   1 fberthou 2023_lyon 3690 Nov 28 15:39 index
+drwxr-xr-x   2 fberthou 2023_lyon   21 Nov 14 17:49 info
+drwxr-xr-x   3 fberthou 2023_lyon   30 Nov 14 17:55 logs
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 objects
+-rw-r--r--   1 fberthou 2023_lyon   41 Nov 27 07:53 ORIG_HEAD
+drwxr-xr-x   5 fberthou 2023_lyon   46 Nov 14 17:55 refs
+
+../../42cursus/1_circle/repo_libft/.git/branches:
+total 0
+drwxr-xr-x 2 fberthou 2023_lyon   6 Nov 14 17:49 .
+drwxr-xr-x 8 fberthou 2023_lyon 201 Nov 28 15:39 ..
+
+../../42cursus/1_circle/repo_libft/.git/hooks:
+total 52
+drwxr-xr-x 2 fberthou 2023_lyon  332 Nov 14 17:49 .
+drwxr-xr-x 8 fberthou 2023_lyon  201 Nov 28 15:39 ..
+-rwxr-xr-x 1 fberthou 2023_lyon  478 Nov 14 17:49 applypatch-msg.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  896 Nov 14 17:49 commit-msg.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 3079 Nov 14 17:49 fsmonitor-watchman.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  189 Nov 14 17:49 post-update.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  424 Nov 14 17:49 pre-applypatch.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 1638 Nov 14 17:49 pre-commit.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  416 Nov 14 17:49 pre-merge-commit.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 1492 Nov 14 17:49 prepare-commit-msg.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 1348 Nov 14 17:49 pre-push.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 4898 Nov 14 17:49 pre-rebase.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  544 Nov 14 17:49 pre-receive.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 3610 Nov 14 17:49 update.sample
+
+../../42cursus/1_circle/repo_libft/.git/info:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon  21 Nov 14 17:49 .
+drwxr-xr-x 8 fberthou 2023_lyon 201 Nov 28 15:39 ..
+-rw-r--r-- 1 fberthou 2023_lyon 240 Nov 14 17:49 exclude
+
+../../42cursus/1_circle/repo_libft/.git/logs:
+total 4
+drwxr-xr-x 3 fberthou 2023_lyon   30 Nov 14 17:55 .
+drwxr-xr-x 8 fberthou 2023_lyon  201 Nov 28 15:39 ..
+-rw-r--r-- 1 fberthou 2023_lyon 2355 Nov 28 15:39 HEAD
+drwxr-xr-x 4 fberthou 2023_lyon   34 Nov 14 17:55 refs
+
+../../42cursus/1_circle/repo_libft/.git/logs/refs:
+total 0
+drwxr-xr-x 4 fberthou 2023_lyon 34 Nov 14 17:55 .
+drwxr-xr-x 3 fberthou 2023_lyon 30 Nov 14 17:55 ..
+drwxr-xr-x 2 fberthou 2023_lyon 20 Nov 14 17:55 heads
+drwxr-xr-x 4 fberthou 2023_lyon 35 Nov 20 14:40 remotes
+
+../../42cursus/1_circle/repo_libft/.git/logs/refs/heads:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon   20 Nov 14 17:55 .
+drwxr-xr-x 4 fberthou 2023_lyon   34 Nov 14 17:55 ..
+-rw-r--r-- 1 fberthou 2023_lyon 2355 Nov 28 15:39 master
+
+../../42cursus/1_circle/repo_libft/.git/logs/refs/remotes:
+total 0
+drwxr-xr-x 4 fberthou 2023_lyon 35 Nov 20 14:40 .
+drwxr-xr-x 4 fberthou 2023_lyon 34 Nov 14 17:55 ..
+drwxr-xr-x 2 fberthou 2023_lyon 20 Nov 20 14:40 mylibft
+drwxr-xr-x 2 fberthou 2023_lyon 20 Nov 14 17:55 origin
+
+../../42cursus/1_circle/repo_libft/.git/logs/refs/remotes/mylibft:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon  20 Nov 20 14:40 .
+drwxr-xr-x 4 fberthou 2023_lyon  35 Nov 20 14:40 ..
+-rw-r--r-- 1 fberthou 2023_lyon 656 Nov 27 07:54 master
+
+../../42cursus/1_circle/repo_libft/.git/logs/refs/remotes/origin:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon   20 Nov 14 17:55 .
+drwxr-xr-x 4 fberthou 2023_lyon   35 Nov 20 14:40 ..
+-rw-r--r-- 1 fberthou 2023_lyon 2093 Nov 28 15:39 master
+
+../../42cursus/1_circle/repo_libft/.git/objects:
+total 4
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 .
+drwxr-xr-x   8 fberthou 2023_lyon  201 Nov 28 15:39 ..
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 21 16:32 00
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 15 18:10 02
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 24 16:57 03
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 20 15:46 04
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 05
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 07
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 23 17:15 08
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 21 16:32 0a
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 0c
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 07:54 0d
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 23 17:15 0e
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 20 14:38 10
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 11
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 16:13 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 28 15:35 14
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 20 14:38 18
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 24 16:57 19
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 22 10:21 1a
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:35 1b
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 28 15:35 21
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 2b
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 07:54 2d
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 20 14:38 2e
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 21 16:32 32
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 20 14:38 33
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 36
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 3a
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 15:56 3b
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 3c
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:57 3e
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 40
+drwxr-xr-x   2 fberthou 2023_lyon  144 Nov 27 15:56 42
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 16:13 43
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:55 49
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 20 14:38 51
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 52
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:35 54
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 22 10:20 56
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 15 18:10 5b
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 5c
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 5d
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 5e
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 5f
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 60
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:55 61
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 07:54 62
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 63
+drwxr-xr-x   2 fberthou 2023_lyon  144 Nov 28 15:35 65
+drwxr-xr-x   2 fberthou 2023_lyon  144 Nov 27 15:56 66
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 28 15:39 67
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 21 16:32 6b
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 16:13 6e
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 21 16:32 71
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 15 18:10 73
+drwxr-xr-x   2 fberthou 2023_lyon  144 Nov 23 17:15 76
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:35 7e
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 7f
+drwxr-xr-x   2 fberthou 2023_lyon  144 Nov 27 15:56 82
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 84
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 85
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 15:56 8a
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 8b
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 07:54 8d
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 24 16:58 8e
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 8f
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 90
+drwxr-xr-x   2 fberthou 2023_lyon  144 Nov 28 15:35 94
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:39 97
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 23 17:15 98
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 07:54 9f
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 07:54 a1
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 15:56 a2
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 a3
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:35 a5
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 a6
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 24 16:57 aa
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 07:48 ab
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 ac
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 ad
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:35 ae
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 15:56 b5
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 15 18:10 b6
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 15 18:10 b8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 20 14:38 b9
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 c3
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 c5
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 15:56 c9
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 ca
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 cc
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 23 17:15 cd
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 cf
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 15:56 d2
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 23 17:15 d4
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 d6
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 15:57 d7
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 d9
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 21 16:32 da
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 28 15:39 db
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 dd
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 20 14:38 e0
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 21 16:32 e3
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 e4
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 20 14:38 e5
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 23 17:15 e9
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 24 16:58 ea
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 15:56 eb
+drwxr-xr-x   2 fberthou 2023_lyon  190 Nov 22 10:21 ec
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 20 15:46 ef
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:35 f0
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 23 17:15 f2
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:35 f4
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 f6
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 23 17:15 f7
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 15 18:10 f8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 15 18:10 f9
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:35 fa
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 22 10:20 fe
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 ff
+drwxr-xr-x   2 fberthou 2023_lyon    6 Nov 14 17:49 info
+drwxr-xr-x   2 fberthou 2023_lyon    6 Nov 14 17:49 pack
+
+../../42cursus/1_circle/repo_libft/.git/objects/00:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 21 16:32 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  326 Nov 23 17:15 20fab0a12590665ecb52411a60aa37154de8ba
+
+../../42cursus/1_circle/repo_libft/.git/objects/02:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 15 18:10 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  485 Nov 15 18:10 2758b41d0481dd60502a23f76ec518bc68a885
+
+../../42cursus/1_circle/repo_libft/.git/objects/03:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 24 16:57 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  440 Nov 14 17:54 958141a1db7a0a477d7676c5a0924020c4fcd3
+-r--r--r--   1 fberthou 2023_lyon  544 Nov 24 16:57 dfee5ddac8b08afddab2358b7bd759b806ec49
+
+../../42cursus/1_circle/repo_libft/.git/objects/04:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 20 15:46 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon 1086 Nov 20 15:46 6c4d868ea32f7e520d80b08dd24f46c0d2c79b
+-r--r--r--   1 fberthou 2023_lyon  396 Nov 14 17:54 933b945df201b92ba3ac7d7bbf3f928b8e315b
+
+../../42cursus/1_circle/repo_libft/.git/objects/05:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  378 Nov 27 15:56 a5825765b6cf867f7425c07b72256a2e779b90
+
+../../42cursus/1_circle/repo_libft/.git/objects/07:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  276 Nov 27 15:56 7806cff792db30fa254bbe3c7e022bc4e27105
+
+../../42cursus/1_circle/repo_libft/.git/objects/08:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 23 17:15 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  362 Nov 23 17:15 73f95f1aaa4e3ce2aab1cfc24ce96922723b9d
+
+../../42cursus/1_circle/repo_libft/.git/objects/0a:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 21 16:32 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  825 Nov 21 16:32 39dcb65918504bd536ba021d1b8116447549f7
+
+../../42cursus/1_circle/repo_libft/.git/objects/0c:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  365 Nov 14 17:54 1efa6477b362dff24e3b190b2d61ebea0f3d6b
+
+../../42cursus/1_circle/repo_libft/.git/objects/0d:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 07:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  177 Nov 27 07:54 7f3be7311608cfce434c2a21cd0982a8b9eccc
+
+../../42cursus/1_circle/repo_libft/.git/objects/0e:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 23 17:15 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  384 Nov 23 17:15 dce29c4a10318f71400ec4864e5e998cd3cf16
+
+../../42cursus/1_circle/repo_libft/.git/objects/10:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 20 14:38 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  456 Nov 20 14:38 cf758670a0190061afffa59d0ebd7b7b01eb1a
+
+../../42cursus/1_circle/repo_libft/.git/objects/11:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  403 Nov 14 17:54 97bc2637e3b94f838ae4566753eba09df29803
+
+../../42cursus/1_circle/repo_libft/.git/objects/12:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 16:13 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  170 Nov 27 16:13 61827c858133388141e23f6b7f21b363ac20f9
+
+../../42cursus/1_circle/repo_libft/.git/objects/14:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 28 15:35 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  185 Nov 28 15:35 71d8dab400a8dae2b1503660fe65c38f63f743
+-r--r--r--   1 fberthou 2023_lyon 1354 Nov 27 07:54 94fdf0920c5e051a1db2cc1dbb31860baa8638
+
+../../42cursus/1_circle/repo_libft/.git/objects/18:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 20 14:38 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  484 Nov 20 14:38 1c63a146058e74f14a737749988ad261916ec6
+-r--r--r--   1 fberthou 2023_lyon  340 Nov 15 18:10 d56a51fe85823caf3d92bc13f50f33eb3f5598
+
+../../42cursus/1_circle/repo_libft/.git/objects/19:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 24 16:57 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  186 Nov 21 16:32 2340916cc5912e6da4acc0bb120a0d465a5992
+-r--r--r--   1 fberthou 2023_lyon  427 Nov 24 16:57 548807ff22681e6095914d31f12c250524cbd9
+
+../../42cursus/1_circle/repo_libft/.git/objects/1a:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 22 10:21 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon 1283 Nov 22 10:21 336a010baa481375e1ac545c80b68a4aeb4bf0
+-r--r--r--   1 fberthou 2023_lyon  355 Nov 22 10:20 df357e0f0897a15bf19ac8fc490a3b3494b22e
+
+../../42cursus/1_circle/repo_libft/.git/objects/1b:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:35 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  377 Nov 28 15:35 f22bcb5724310ca0d2c8f225035cffdb3b7fb3
+
+../../42cursus/1_circle/repo_libft/.git/objects/21:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 28 15:35 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  342 Nov 28 15:35 99a99123696febdb8044314f80e8994358e1a1
+-r--r--r--   1 fberthou 2023_lyon  414 Nov 27 15:56 b3f29298d00786869707a4770aecc87b85cac2
+
+../../42cursus/1_circle/repo_libft/.git/objects/2b:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  395 Nov 14 17:54 e93630afb7a64b40f94a779810dd9d1235bf8b
+
+../../42cursus/1_circle/repo_libft/.git/objects/2d:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 07:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  318 Nov 14 17:54 3eafa1f9948f68efcfc1d80abe1cec6fad7dee
+-r--r--r--   1 fberthou 2023_lyon  450 Nov 27 07:54 b0f274485fb6bfd0c10e39e62fc94486a1ada9
+
+../../42cursus/1_circle/repo_libft/.git/objects/2e:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 20 14:38 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  588 Nov 20 14:38 c283fbfc8a521a7704c0c04d9cb8d2b305eafc
+
+../../42cursus/1_circle/repo_libft/.git/objects/32:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 21 16:32 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  666 Nov 21 16:32 4d6fd2c2a01c6cd36c932c2305d2773fd50773
+
+../../42cursus/1_circle/repo_libft/.git/objects/33:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 20 14:38 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  356 Nov 20 14:38 65b965e5d35609586c8ff88ed6117e7a20bace
+
+../../42cursus/1_circle/repo_libft/.git/objects/36:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  365 Nov 14 17:54 56460a010b354c327b8a2ce04cb00d5acd5a46
+
+../../42cursus/1_circle/repo_libft/.git/objects/3a:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  347 Nov 27 15:56 1287b78cc8d432cc1565d0936b8116275cc60a
+
+../../42cursus/1_circle/repo_libft/.git/objects/3b:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  377 Nov 27 15:56 92437cee09034c4fa790d2ec424dbb678cfb3a
+-r--r--r--   1 fberthou 2023_lyon  441 Nov 23 17:15 aa80e796217165c649ea0859517629ccb0ab7b
+
+../../42cursus/1_circle/repo_libft/.git/objects/3c:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  370 Nov 27 15:56 fb8dc75bb33c283f5be837ea9de8f9ffacc757
+
+../../42cursus/1_circle/repo_libft/.git/objects/3e:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:57 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon 1322 Nov 27 15:57 80033c5deabd58b8dda6d24591d41561888b96
+
+../../42cursus/1_circle/repo_libft/.git/objects/40:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  285 Nov 27 15:56 ba5761ed86e185213aedad5feacec8b015cffd
+
+../../42cursus/1_circle/repo_libft/.git/objects/42:
+total 16
+drwxr-xr-x   2 fberthou 2023_lyon  144 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  162 Nov 20 14:38 a0a057cbbb7f13ec9139c33e22e552ad8f5246
+-r--r--r--   1 fberthou 2023_lyon  500 Nov 14 17:54 e834130d0998dafddb817605711d9980823315
+-r--r--r--   1 fberthou 2023_lyon  322 Nov 27 15:56 f2788cbca7ea4e75084a6e6beec78cbf4ffbd5
+
+../../42cursus/1_circle/repo_libft/.git/objects/43:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 16:13 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  358 Nov 14 17:54 05bf3edbaf69f10d5ff16a55c5e57c671888cc
+-r--r--r--   1 fberthou 2023_lyon  463 Nov 27 16:13 0cfbfb8a3250ac534b922f95d88db8c56232d9
+
+../../42cursus/1_circle/repo_libft/.git/objects/49:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:55 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  745 Nov 14 17:55 091ccb7b842e902ba018096335cda30e3178d6
+
+../../42cursus/1_circle/repo_libft/.git/objects/51:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 20 14:38 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  332 Nov 20 14:38 3b627ab5e387f1fe4f9f695b1a65279794983a
+
+../../42cursus/1_circle/repo_libft/.git/objects/52:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  346 Nov 27 15:56 d4b2e477cd3d3e5161874227a9ce7a1b9b10ec
+
+../../42cursus/1_circle/repo_libft/.git/objects/54:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:35 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  414 Nov 28 15:35 3b6ae1b9fed4e4224835ebbfccac533e9a6f68
+
+../../42cursus/1_circle/repo_libft/.git/objects/56:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 22 10:20 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  377 Nov 20 14:38 2a8faecfc28edd9fb68764eee1d4fe1ee9922a
+-r--r--r--   1 fberthou 2023_lyon  426 Nov 22 10:20 e283011d6029c535c3dc89cd72ea5f42be79b1
+
+../../42cursus/1_circle/repo_libft/.git/objects/5b:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 15 18:10 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  618 Nov 15 18:10 7b70a326605f2fe0e1d93fe2ef5d129ee05395
+
+../../42cursus/1_circle/repo_libft/.git/objects/5c:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  383 Nov 27 15:56 2307b2a692fa1f3c7af379d9e0f148887b2f65
+
+../../42cursus/1_circle/repo_libft/.git/objects/5d:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  416 Nov 14 17:54 095a4ded890a8e31f4ed1e4531e0bd38aa1b66
+
+../../42cursus/1_circle/repo_libft/.git/objects/5e:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  282 Nov 27 15:56 bbde314c594f85d1b83802216779358a81aba4
+
+../../42cursus/1_circle/repo_libft/.git/objects/5f:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  503 Nov 27 15:56 6061a676cb1520f0fdb546d90b6d97a51e5fb7
+
+../../42cursus/1_circle/repo_libft/.git/objects/60:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  446 Nov 14 17:54 42fa21d41394d876dbace8300ff6fcf18a13c2
+
+../../42cursus/1_circle/repo_libft/.git/objects/61:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:55 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  150 Nov 14 17:55 919d76c733cb48aca0169223e20bdd065b5325
+
+../../42cursus/1_circle/repo_libft/.git/objects/62:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 07:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  508 Nov 27 07:54 e675301e3d92d53bafbcce920575f0e9431f89
+
+../../42cursus/1_circle/repo_libft/.git/objects/63:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  420 Nov 27 15:56 1936572666ce10531224c5f30ff873cb6f076d
+
+../../42cursus/1_circle/repo_libft/.git/objects/65:
+total 16
+drwxr-xr-x   2 fberthou 2023_lyon  144 Nov 28 15:35 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  661 Nov 27 15:56 40fdbbfc3574215d13bb4869ddbdb33d9a960d
+-r--r--r--   1 fberthou 2023_lyon  341 Nov 22 10:20 8a0eeac0035c1c14ef2611ddc8bbf433c34524
+-r--r--r--   1 fberthou 2023_lyon  348 Nov 28 15:35 f5859ba64bd0c0277df0cb249638903f086205
+
+../../42cursus/1_circle/repo_libft/.git/objects/66:
+total 16
+drwxr-xr-x   2 fberthou 2023_lyon  144 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  410 Nov 27 15:56 03d9729940bfe12964e599d4e9f3b9630f22e7
+-r--r--r--   1 fberthou 2023_lyon  502 Nov 24 16:57 65693113945b69ca328919522ca884ce9b9900
+-r--r--r--   1 fberthou 2023_lyon  300 Nov 27 15:56 a6c3e08064c98223cc073a2a10e5ceb67289ca
+
+../../42cursus/1_circle/repo_libft/.git/objects/67:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 28 15:39 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  183 Nov 27 07:54 8f8a8e180a23370ed63d5367df4bdad69f674a
+-r--r--r--   1 fberthou 2023_lyon  494 Nov 28 15:39 b706983aaa0ac4610629ed1602e2228fc5fb7c
+
+../../42cursus/1_circle/repo_libft/.git/objects/6b:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 21 16:32 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  326 Nov 23 17:15 8f18b5182fcd05ce398c4e2a7d29ecddfa7191
+
+../../42cursus/1_circle/repo_libft/.git/objects/6e:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 16:13 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  279 Nov 22 10:20 01425a5829f2ef2b8b1a68d1155924aeb41d38
+-r--r--r--   1 fberthou 2023_lyon 1326 Nov 27 16:13 21c607c29b9ba508e7969f1b56be3bc8f02965
+
+../../42cursus/1_circle/repo_libft/.git/objects/71:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 21 16:32 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon 1230 Nov 21 16:32 c4dea75200c97f2dfb0f517d235fa1dc0fed08
+
+../../42cursus/1_circle/repo_libft/.git/objects/73:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 15 18:10 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  856 Nov 15 18:10 8b0e9d9fdf961ab98fb987c0d86f89cc4b694f
+
+../../42cursus/1_circle/repo_libft/.git/objects/76:
+total 16
+drwxr-xr-x   2 fberthou 2023_lyon  144 Nov 23 17:15 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  317 Nov 21 16:32 1f903fd66e9a4a9fab8b8608f79da7162688a4
+-r--r--r--   1 fberthou 2023_lyon  182 Nov 23 17:15 4a4c85cda6ff2ce0b5844e5086365b90dc7a5a
+-r--r--r--   1 fberthou 2023_lyon  725 Nov 15 18:10 ee4f375f5639f6dc4153d35753c0185bd62674
+
+../../42cursus/1_circle/repo_libft/.git/objects/7e:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:35 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  350 Nov 28 15:35 c67c174722bf006ca821b2ae973810df769561
+
+../../42cursus/1_circle/repo_libft/.git/objects/7f:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  458 Nov 27 15:56 d8cf21cba97ea46bc05a099539070a442a1a77
+
+../../42cursus/1_circle/repo_libft/.git/objects/82:
+total 16
+drwxr-xr-x   2 fberthou 2023_lyon  144 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  371 Nov 27 15:56 a4ba0fde8bdd06331868cf59a533aa4e75845c
+-r--r--r--   1 fberthou 2023_lyon  500 Nov 27 15:56 d468276fd75031303a4eb3db312903e894852f
+-r--r--r--   1 fberthou 2023_lyon  541 Nov 14 17:54 e241247830bc4e2389eddc3e67b9672735c747
+
+../../42cursus/1_circle/repo_libft/.git/objects/84:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  451 Nov 14 17:54 8ad9fb24a2571df5a8aaa26425297e977fab72
+
+../../42cursus/1_circle/repo_libft/.git/objects/85:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  514 Nov 14 17:54 56c8588f36a588928df4a3fa90f73ec7ac5554
+
+../../42cursus/1_circle/repo_libft/.git/objects/8a:
+total 16
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon 4930 Nov 14 17:54 643926d81cdcad33e563cc04a5acb0a512edf5
+-r--r--r--   1 fberthou 2023_lyon  365 Nov 27 15:56 6648e2dbc2a58fadd5b93f7178ddfc7f842dc2
+
+../../42cursus/1_circle/repo_libft/.git/objects/8b:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  557 Nov 14 17:54 f61f9f5cc49bc0eff781dbe15972c95e10bc30
+
+../../42cursus/1_circle/repo_libft/.git/objects/8d:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 07:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon 1348 Nov 27 07:54 c554c8420e0236d7f564cba6654dd6769febb4
+
+../../42cursus/1_circle/repo_libft/.git/objects/8e:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 24 16:58 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon 1487 Nov 24 16:58 00b1a3d861206bd21f488bbfe07b61cf38a484
+
+../../42cursus/1_circle/repo_libft/.git/objects/8f:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  341 Nov 27 15:56 66b23ebce1df1de6c240e48878cf6f705e4220
+
+../../42cursus/1_circle/repo_libft/.git/objects/90:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  364 Nov 27 15:56 6094c420dc1bde8de6ddca82d76f2a22b83035
+
+../../42cursus/1_circle/repo_libft/.git/objects/94:
+total 16
+drwxr-xr-x   2 fberthou 2023_lyon  144 Nov 28 15:35 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  475 Nov 24 16:57 1fe8c59b68965e0b417cf14804e6d5eadeeb39
+-r--r--r--   1 fberthou 2023_lyon  312 Nov 21 16:32 4e66d0b18a6a1521e9fa8b6f999b2e92b11a85
+-r--r--r--   1 fberthou 2023_lyon 1324 Nov 28 15:35 7aae5fa6fd3b4ce82f17665d1fbd555013faf9
+
+../../42cursus/1_circle/repo_libft/.git/objects/97:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:39 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon 1324 Nov 28 15:39 00ed060178935f5dbc4b1f32776c850f619d15
+
+../../42cursus/1_circle/repo_libft/.git/objects/98:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 23 17:15 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  332 Nov 23 17:15 a60698ba02d1690348a22775acf686a8d7c5d4
+-r--r--r--   1 fberthou 2023_lyon  515 Nov 14 17:54 f0b2c215a3a9182983e5e353b797ba19e560d5
+
+../../42cursus/1_circle/repo_libft/.git/objects/9f:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 07:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  493 Nov 27 07:54 0c85d4901cf964c28a232b2e6e539e1ac8f586
+-r--r--r--   1 fberthou 2023_lyon  379 Nov 20 14:38 82468c6c6b0a644f2080df3b131bed86ae289c
+
+../../42cursus/1_circle/repo_libft/.git/objects/a1:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 07:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  175 Nov 27 07:54 a3cb44d2c80cd9044acc32c7afcad4769cc3ca
+
+../../42cursus/1_circle/repo_libft/.git/objects/a2:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon 1464 Nov 27 07:54 4c5514ea700c03a1385e55970d150e7ddaf312
+-r--r--r--   1 fberthou 2023_lyon  292 Nov 27 15:56 e431419840790d264cf0d11022f28c9eb1d2eb
+
+../../42cursus/1_circle/repo_libft/.git/objects/a3:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  307 Nov 27 15:56 fa1828e3c91bf890ba2a48c0df650ee3e90773
+
+../../42cursus/1_circle/repo_libft/.git/objects/a5:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:35 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  460 Nov 28 15:35 fb79c4029dba39f4c243f70e1c11c6e6619958
+
+../../42cursus/1_circle/repo_libft/.git/objects/a6:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  379 Nov 27 15:56 f96e2e42956c6c8931f5f118e8e56720ccbcf7
+
+../../42cursus/1_circle/repo_libft/.git/objects/aa:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 24 16:57 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  709 Nov 20 14:38 9cd2fc14633574fe05011b4907a9df5e17a946
+-r--r--r--   1 fberthou 2023_lyon  513 Nov 24 16:57 edec1566544135a33ad2754ec2beba607e4a9d
+
+../../42cursus/1_circle/repo_libft/.git/objects/ab:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 07:48 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  180 Nov 27 07:48 553ad8bd06cc94558cb41190065ccd318afb6b
+
+../../42cursus/1_circle/repo_libft/.git/objects/ac:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  285 Nov 27 15:56 ba50c407f90c2b0e48ee59bd413d8b05007d8c
+
+../../42cursus/1_circle/repo_libft/.git/objects/ad:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  877 Nov 27 15:56 1fbbefb9db6fb308b4ac1691fb806da002e50f
+
+../../42cursus/1_circle/repo_libft/.git/objects/ae:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:35 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  366 Nov 28 15:35 d3875db816521f6660fa547ed5450d71488b87
+
+../../42cursus/1_circle/repo_libft/.git/objects/b5:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  479 Nov 14 17:54 8295efb25923e4952e685287c072082be471c2
+-r--r--r--   1 fberthou 2023_lyon  437 Nov 27 15:56 e31468f12a3826bce27794250056a3dca6eef3
+
+../../42cursus/1_circle/repo_libft/.git/objects/b6:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 15 18:10 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  432 Nov 15 18:10 09a68d1b8abc7475f5db87a4e89d76b1a14597
+
+../../42cursus/1_circle/repo_libft/.git/objects/b8:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 15 18:10 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  461 Nov 15 18:10 4290262c1759181c914534e6631874a3d9943f
+
+../../42cursus/1_circle/repo_libft/.git/objects/b9:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 20 14:38 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  665 Nov 20 14:38 31970080ab6b2e6cf6dcaf5fa48608a0ad3270
+
+../../42cursus/1_circle/repo_libft/.git/objects/c3:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  318 Nov 27 15:56 1bd827ce91ae4e2f6113b63f5e04e46e3f771d
+
+../../42cursus/1_circle/repo_libft/.git/objects/c5:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  534 Nov 14 17:54 8b6fccdb7e0a1f1e5fccaf672dd2ba18cdfc7c
+
+../../42cursus/1_circle/repo_libft/.git/objects/c9:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  419 Nov 27 15:56 0d19b00b90f227b00d31f7401a99debea6c4b7
+-r--r--r--   1 fberthou 2023_lyon  279 Nov 27 15:56 d110bae56d448dedf2a6a688d2e614d019c680
+
+../../42cursus/1_circle/repo_libft/.git/objects/ca:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  362 Nov 27 15:56 6de2380e57a645810f34a4ba902c793d06f1e0
+
+../../42cursus/1_circle/repo_libft/.git/objects/cc:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  520 Nov 14 17:54 6c8ff1895b0d46d433b6a5c125eaff187ca4ff
+
+../../42cursus/1_circle/repo_libft/.git/objects/cd:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 23 17:15 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  445 Nov 23 17:15 e79e9aebfc3de522dd5ad54ce4909d96d15229
+
+../../42cursus/1_circle/repo_libft/.git/objects/cf:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  596 Nov 27 15:56 86d6d012e54e8dc30a95a6020080a444b42e6f
+
+../../42cursus/1_circle/repo_libft/.git/objects/d2:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  342 Nov 27 15:56 bcb3e208c2883914d5480bc38412962b6f2670
+-r--r--r--   1 fberthou 2023_lyon  340 Nov 23 17:15 d11be9a3aa9a800f34bc6ff601dab89dab2328
+
+../../42cursus/1_circle/repo_libft/.git/objects/d4:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 23 17:15 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  348 Nov 23 17:15 df1155a03fb56337346a07cf532f4ed3e1cdd5
+
+../../42cursus/1_circle/repo_libft/.git/objects/d6:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  344 Nov 27 15:56 0a0205ed377f8889ff0c32d79d7f1197ed3684
+
+../../42cursus/1_circle/repo_libft/.git/objects/d7:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 15:57 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  402 Nov 20 14:38 0cddc6e131aff07574f0d09a85c814cf57e6ae
+-r--r--r--   1 fberthou 2023_lyon  187 Nov 27 15:57 e3785a8c12c9d3236eaccd71acf613e4e5cd20
+
+../../42cursus/1_circle/repo_libft/.git/objects/d9:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  630 Nov 27 15:56 c1867ca20da0b56a815f05cf536026563a7d93
+
+../../42cursus/1_circle/repo_libft/.git/objects/da:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 21 16:32 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  406 Nov 21 16:32 6de555031b672e6355133f41d9a19361fda958
+
+../../42cursus/1_circle/repo_libft/.git/objects/db:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 28 15:39 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  622 Nov 28 15:35 83cfb973956873ec79a80bc55881ccddf6754d
+-r--r--r--   1 fberthou 2023_lyon  169 Nov 28 15:39 beb6ee64bebd4c37f2525feb62e8930aa42670
+
+../../42cursus/1_circle/repo_libft/.git/objects/dd:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  290 Nov 27 15:56 7ec2dcb252fb7d60216b8fed72c1f6e3c18d2e
+
+../../42cursus/1_circle/repo_libft/.git/objects/e0:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 20 14:38 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon 1087 Nov 20 14:38 c2b8fe02fcf1d13f7fe5605b38e7d477ad3800
+
+../../42cursus/1_circle/repo_libft/.git/objects/e3:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 21 16:32 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  415 Nov 21 16:32 8b1f49f43a56ce29afeda64921dcf8bcc4c2a0
+
+../../42cursus/1_circle/repo_libft/.git/objects/e4:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  449 Nov 14 17:54 2f8e950b1f261b74bea98512f57b1a18e85938
+
+../../42cursus/1_circle/repo_libft/.git/objects/e5:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 20 14:38 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  802 Nov 20 14:38 e34a9928599bf13902bf8bdd4e0451102924ec
+
+../../42cursus/1_circle/repo_libft/.git/objects/e9:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 23 17:15 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon 1486 Nov 23 17:15 ef7a86a2c28b74590f99a1dce53462a3f0da5f
+
+../../42cursus/1_circle/repo_libft/.git/objects/ea:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 24 16:58 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  195 Nov 24 16:58 2e399350277ced9b47778e01fecf7070948269
+
+../../42cursus/1_circle/repo_libft/.git/objects/eb:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  560 Nov 15 18:10 97e233751cf2f6615295750b59dac8763fb168
+-r--r--r--   1 fberthou 2023_lyon  417 Nov 27 15:56 c3a5a964038a6f27e9a2f6a702495716291a4e
+
+../../42cursus/1_circle/repo_libft/.git/objects/ec:
+total 20
+drwxr-xr-x   2 fberthou 2023_lyon  190 Nov 22 10:21 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  174 Nov 20 15:46 0840a61ce82ccfd0911ee33f5b029df0d4d06d
+-r--r--r--   1 fberthou 2023_lyon  424 Nov 14 17:54 217e85e4191b3b3ab6fbcf26d6f2bb7e7783ee
+-r--r--r--   1 fberthou 2023_lyon  164 Nov 22 10:21 b5090553bdc12b75d4185462d45747ad65cab3
+-r--r--r--   1 fberthou 2023_lyon  369 Nov 14 17:54 ff527e3c12534097faad4acbe4a74db06121c1
+
+../../42cursus/1_circle/repo_libft/.git/objects/ef:
+total 12
+drwxr-xr-x   2 fberthou 2023_lyon   98 Nov 20 15:46 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  368 Nov 14 17:54 49fdbf0dca6b9c9c44e219cd0d20a87bd271eb
+-r--r--r--   1 fberthou 2023_lyon  814 Nov 20 15:46 cdf1bebf2b204e4cfc937fe166d1b99c917527
+
+../../42cursus/1_circle/repo_libft/.git/objects/f0:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:35 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  331 Nov 28 15:35 5ebc698acad59686ad481c2b26523e1defe961
+
+../../42cursus/1_circle/repo_libft/.git/objects/f2:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 23 17:15 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  876 Nov 23 17:15 0a9638f7d346f529fc13ca3ea7cf2f0011d98d
+
+../../42cursus/1_circle/repo_libft/.git/objects/f4:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:35 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  362 Nov 28 15:35 da4660278cea481001ca6c7788ae989330b2a1
+
+../../42cursus/1_circle/repo_libft/.git/objects/f6:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 14 17:54 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  448 Nov 14 17:54 f87f9324c55fe49fb44604808d3d3d74ce9ccd
+
+../../42cursus/1_circle/repo_libft/.git/objects/f7:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 23 17:15 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  349 Nov 23 17:15 7ba25845154f7646cf5446ed229b2f92029f84
+
+../../42cursus/1_circle/repo_libft/.git/objects/f8:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 15 18:10 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  520 Nov 15 18:10 1745f5d2e5ab5d9dd42fb2309f68520119a1b6
+
+../../42cursus/1_circle/repo_libft/.git/objects/f9:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 15 18:10 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  191 Nov 15 18:10 07ef91d6b5ab03a1386960362f93d93c7439a5
+
+../../42cursus/1_circle/repo_libft/.git/objects/fa:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 28 15:35 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  340 Nov 28 15:35 173bdb47934ed482964feb0975c4cec17551d1
+
+../../42cursus/1_circle/repo_libft/.git/objects/fe:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 22 10:20 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  850 Nov 22 10:20 7a2073ada3c496ae38939f4f9676db5237942c
+
+../../42cursus/1_circle/repo_libft/.git/objects/ff:
+total 8
+drwxr-xr-x   2 fberthou 2023_lyon   52 Nov 27 15:56 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+-r--r--r--   1 fberthou 2023_lyon  379 Nov 27 15:56 1bad7f51bc256a68ab4f02228faa79664f206e
+
+../../42cursus/1_circle/repo_libft/.git/objects/info:
+total 4
+drwxr-xr-x   2 fberthou 2023_lyon    6 Nov 14 17:49 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+
+../../42cursus/1_circle/repo_libft/.git/objects/pack:
+total 4
+drwxr-xr-x   2 fberthou 2023_lyon    6 Nov 14 17:49 .
+drwxr-xr-x 122 fberthou 2023_lyon 4096 Nov 28 15:39 ..
+
+../../42cursus/1_circle/repo_libft/.git/refs:
+total 0
+drwxr-xr-x 5 fberthou 2023_lyon  46 Nov 14 17:55 .
+drwxr-xr-x 8 fberthou 2023_lyon 201 Nov 28 15:39 ..
+drwxr-xr-x 2 fberthou 2023_lyon  20 Nov 28 15:39 heads
+drwxr-xr-x 4 fberthou 2023_lyon  35 Nov 20 14:40 remotes
+drwxr-xr-x 2 fberthou 2023_lyon   6 Nov 14 17:49 tags
+
+../../42cursus/1_circle/repo_libft/.git/refs/heads:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon 20 Nov 28 15:39 .
+drwxr-xr-x 5 fberthou 2023_lyon 46 Nov 14 17:55 ..
+-rw-r--r-- 1 fberthou 2023_lyon 41 Nov 28 15:39 master
+
+../../42cursus/1_circle/repo_libft/.git/refs/remotes:
+total 0
+drwxr-xr-x 4 fberthou 2023_lyon 35 Nov 20 14:40 .
+drwxr-xr-x 5 fberthou 2023_lyon 46 Nov 14 17:55 ..
+drwxr-xr-x 2 fberthou 2023_lyon 20 Nov 27 07:54 mylibft
+drwxr-xr-x 2 fberthou 2023_lyon 20 Nov 28 15:39 origin
+
+../../42cursus/1_circle/repo_libft/.git/refs/remotes/mylibft:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon 20 Nov 27 07:54 .
+drwxr-xr-x 4 fberthou 2023_lyon 35 Nov 20 14:40 ..
+-rw-r--r-- 1 fberthou 2023_lyon 41 Nov 27 07:54 master
+
+../../42cursus/1_circle/repo_libft/.git/refs/remotes/origin:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon 20 Nov 28 15:39 .
+drwxr-xr-x 4 fberthou 2023_lyon 35 Nov 20 14:40 ..
+-rw-r--r-- 1 fberthou 2023_lyon 41 Nov 28 15:39 master
+
+../../42cursus/1_circle/repo_libft/.git/refs/tags:
+total 0
+drwxr-xr-x 2 fberthou 2023_lyon  6 Nov 14 17:49 .
+drwxr-xr-x 5 fberthou 2023_lyon 46 Nov 14 17:55 ..
+
+../../42cursus/2_circle:
+total 0
+drwxr-xr-x 5 fberthou 2023_lyon  64 Jan 16 18:09 .
+drwxr-xr-x 8 fberthou 2023_lyon 104 Feb 22 18:30 ..
+drwxr-xr-x 3 fberthou 2023_lyon  39 Jan 16 18:10 bornToBeRoot
+drwxr-xr-x 4 fberthou 2023_lyon 195 Jan  9 09:44 ft_printf
+drwxr-xr-x 3 fberthou 2023_lyon 186 Jan  9 14:49 get-next-line
+
+../../42cursus/2_circle/bornToBeRoot:
+total 4
+drwxr-xr-x 3 fberthou 2023_lyon  39 Jan 16 18:10 .
+drwxr-xr-x 5 fberthou 2023_lyon  64 Jan 16 18:09 ..
+drwxr-xr-x 8 fberthou 2023_lyon 166 Jan 16 18:08 .git
+-rw-r--r-- 1 fberthou 2023_lyon 951 Jan 16 18:07 signature.txt
+
+../../42cursus/2_circle/bornToBeRoot/.git:
+total 20
+drwxr-xr-x 8 fberthou 2023_lyon 166 Jan 16 18:08 .
+drwxr-xr-x 3 fberthou 2023_lyon  39 Jan 16 18:10 ..
+drwxr-xr-x 2 fberthou 2023_lyon   6 Jan 16 18:07 branches
+-rw-r--r-- 1 fberthou 2023_lyon   3 Jan 16 18:08 COMMIT_EDITMSG
+-rw-r--r-- 1 fberthou 2023_lyon 347 Jan 16 18:07 config
+-rw-r--r-- 1 fberthou 2023_lyon  73 Jan 16 18:07 description
+-rw-r--r-- 1 fberthou 2023_lyon  23 Jan 16 18:07 HEAD
+drwxr-xr-x 2 fberthou 2023_lyon 332 Jan 16 18:07 hooks
+-rw-r--r-- 1 fberthou 2023_lyon 145 Jan 16 18:08 index
+drwxr-xr-x 2 fberthou 2023_lyon  21 Jan 16 18:07 info
+drwxr-xr-x 3 fberthou 2023_lyon  30 Jan 16 18:08 logs
+drwxr-xr-x 7 fberthou 2023_lyon  60 Jan 16 18:08 objects
+drwxr-xr-x 5 fberthou 2023_lyon  46 Jan 16 18:08 refs
+
+../../42cursus/2_circle/bornToBeRoot/.git/branches:
+total 0
+drwxr-xr-x 2 fberthou 2023_lyon   6 Jan 16 18:07 .
+drwxr-xr-x 8 fberthou 2023_lyon 166 Jan 16 18:08 ..
+
+../../42cursus/2_circle/bornToBeRoot/.git/hooks:
+total 52
+drwxr-xr-x 2 fberthou 2023_lyon  332 Jan 16 18:07 .
+drwxr-xr-x 8 fberthou 2023_lyon  166 Jan 16 18:08 ..
+-rwxr-xr-x 1 fberthou 2023_lyon  478 Jan 16 18:07 applypatch-msg.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  896 Jan 16 18:07 commit-msg.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 3079 Jan 16 18:07 fsmonitor-watchman.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  189 Jan 16 18:07 post-update.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  424 Jan 16 18:07 pre-applypatch.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 1638 Jan 16 18:07 pre-commit.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  416 Jan 16 18:07 pre-merge-commit.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 1492 Jan 16 18:07 prepare-commit-msg.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 1348 Jan 16 18:07 pre-push.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 4898 Jan 16 18:07 pre-rebase.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  544 Jan 16 18:07 pre-receive.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 3610 Jan 16 18:07 update.sample
+
+../../42cursus/2_circle/bornToBeRoot/.git/info:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon  21 Jan 16 18:07 .
+drwxr-xr-x 8 fberthou 2023_lyon 166 Jan 16 18:08 ..
+-rw-r--r-- 1 fberthou 2023_lyon 240 Jan 16 18:07 exclude
+
+../../42cursus/2_circle/bornToBeRoot/.git/logs:
+total 4
+drwxr-xr-x 3 fberthou 2023_lyon  30 Jan 16 18:08 .
+drwxr-xr-x 8 fberthou 2023_lyon 166 Jan 16 18:08 ..
+-rw-r--r-- 1 fberthou 2023_lyon 166 Jan 16 18:08 HEAD
+drwxr-xr-x 4 fberthou 2023_lyon  34 Jan 16 18:08 refs
+
+../../42cursus/2_circle/bornToBeRoot/.git/logs/refs:
+total 0
+drwxr-xr-x 4 fberthou 2023_lyon 34 Jan 16 18:08 .
+drwxr-xr-x 3 fberthou 2023_lyon 30 Jan 16 18:08 ..
+drwxr-xr-x 2 fberthou 2023_lyon 20 Jan 16 18:08 heads
+drwxr-xr-x 3 fberthou 2023_lyon 20 Jan 16 18:08 remotes
+
+../../42cursus/2_circle/bornToBeRoot/.git/logs/refs/heads:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon  20 Jan 16 18:08 .
+drwxr-xr-x 4 fberthou 2023_lyon  34 Jan 16 18:08 ..
+-rw-r--r-- 1 fberthou 2023_lyon 166 Jan 16 18:08 master
+
+../../42cursus/2_circle/bornToBeRoot/.git/logs/refs/remotes:
+total 0
+drwxr-xr-x 3 fberthou 2023_lyon 20 Jan 16 18:08 .
+drwxr-xr-x 4 fberthou 2023_lyon 34 Jan 16 18:08 ..
+drwxr-xr-x 2 fberthou 2023_lyon 20 Jan 16 18:08 origin
+
+../../42cursus/2_circle/bornToBeRoot/.git/logs/refs/remotes/origin:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon  20 Jan 16 18:08 .
+drwxr-xr-x 3 fberthou 2023_lyon  20 Jan 16 18:08 ..
+-rw-r--r-- 1 fberthou 2023_lyon 160 Jan 16 18:08 master
+
+../../42cursus/2_circle/bornToBeRoot/.git/objects:
+total 0
+drwxr-xr-x 7 fberthou 2023_lyon  60 Jan 16 18:08 .
+drwxr-xr-x 8 fberthou 2023_lyon 166 Jan 16 18:08 ..
+drwxr-xr-x 2 fberthou 2023_lyon  52 Jan 16 18:08 31
+drwxr-xr-x 2 fberthou 2023_lyon  52 Jan 16 18:08 38
+drwxr-xr-x 2 fberthou 2023_lyon  52 Jan 16 18:08 d0
+drwxr-xr-x 2 fberthou 2023_lyon   6 Jan 16 18:07 info
+drwxr-xr-x 2 fberthou 2023_lyon   6 Jan 16 18:07 pack
+
+../../42cursus/2_circle/bornToBeRoot/.git/objects/31:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon  52 Jan 16 18:08 .
+drwxr-xr-x 7 fberthou 2023_lyon  60 Jan 16 18:08 ..
+-r--r--r-- 1 fberthou 2023_lyon 133 Jan 16 18:08 75f6e26cd7c140535847f996a89f9c1b57c3d7
+
+../../42cursus/2_circle/bornToBeRoot/.git/objects/38:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon 52 Jan 16 18:08 .
+drwxr-xr-x 7 fberthou 2023_lyon 60 Jan 16 18:08 ..
+-r--r--r-- 1 fberthou 2023_lyon 58 Jan 16 18:08 aa77ef269d1e2255cf56a9d983216a2072073d
+
+../../42cursus/2_circle/bornToBeRoot/.git/objects/d0:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon  52 Jan 16 18:08 .
+drwxr-xr-x 7 fberthou 2023_lyon  60 Jan 16 18:08 ..
+-r--r--r-- 1 fberthou 2023_lyon 264 Jan 16 18:08 01422602c31be53cdceeef311775d584b530cc
+
+../../42cursus/2_circle/bornToBeRoot/.git/objects/info:
+total 0
+drwxr-xr-x 2 fberthou 2023_lyon  6 Jan 16 18:07 .
+drwxr-xr-x 7 fberthou 2023_lyon 60 Jan 16 18:08 ..
+
+../../42cursus/2_circle/bornToBeRoot/.git/objects/pack:
+total 0
+drwxr-xr-x 2 fberthou 2023_lyon  6 Jan 16 18:07 .
+drwxr-xr-x 7 fberthou 2023_lyon 60 Jan 16 18:08 ..
+
+../../42cursus/2_circle/bornToBeRoot/.git/refs:
+total 0
+drwxr-xr-x 5 fberthou 2023_lyon  46 Jan 16 18:08 .
+drwxr-xr-x 8 fberthou 2023_lyon 166 Jan 16 18:08 ..
+drwxr-xr-x 2 fberthou 2023_lyon  20 Jan 16 18:08 heads
+drwxr-xr-x 3 fberthou 2023_lyon  20 Jan 16 18:08 remotes
+drwxr-xr-x 2 fberthou 2023_lyon   6 Jan 16 18:07 tags
+
+../../42cursus/2_circle/bornToBeRoot/.git/refs/heads:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon 20 Jan 16 18:08 .
+drwxr-xr-x 5 fberthou 2023_lyon 46 Jan 16 18:08 ..
+-rw-r--r-- 1 fberthou 2023_lyon 41 Jan 16 18:08 master
+
+../../42cursus/2_circle/bornToBeRoot/.git/refs/remotes:
+total 0
+drwxr-xr-x 3 fberthou 2023_lyon 20 Jan 16 18:08 .
+drwxr-xr-x 5 fberthou 2023_lyon 46 Jan 16 18:08 ..
+drwxr-xr-x 2 fberthou 2023_lyon 20 Jan 16 18:08 origin
+
+../../42cursus/2_circle/bornToBeRoot/.git/refs/remotes/origin:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon 20 Jan 16 18:08 .
+drwxr-xr-x 3 fberthou 2023_lyon 20 Jan 16 18:08 ..
+-rw-r--r-- 1 fberthou 2023_lyon 41 Jan 16 18:08 master
+
+../../42cursus/2_circle/bornToBeRoot/.git/refs/tags:
+total 0
+drwxr-xr-x 2 fberthou 2023_lyon  6 Jan 16 18:07 .
+drwxr-xr-x 5 fberthou 2023_lyon 46 Jan 16 18:08 ..
+
+../../42cursus/2_circle/ft_printf:
+total 32
+drwxr-xr-x 4 fberthou 2023_lyon  195 Jan  9 09:44 .
+drwxr-xr-x 5 fberthou 2023_lyon   64 Jan 16 18:09 ..
+-rw-r--r-- 1 fberthou 2023_lyon 2425 Jan 11 10:46 ft_printf_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon 1534 Jan  9 09:31 ft_printf_bonus.h
+-rw-r--r-- 1 fberthou 2023_lyon 1904 Jan  8 12:21 ft_printf.c
+-rw-r--r-- 1 fberthou 2023_lyon 1337 Jan  8 12:21 ft_printf.h
+drwxr-xr-x 8 fberthou 2023_lyon  166 Jan  9 09:47 .git
+-rw-r--r-- 1 fberthou 2023_lyon  533 Jan  9 09:41 Makefile
+-rw-r--r-- 1 fberthou 2023_lyon 2264 Jan  8 12:21 utils2_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon 2175 Jan  8 13:05 utils_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon 2258 Jan  8 12:21 utils.c
+drwxr-xr-x 2 fberthou 2023_lyon   27 Jan  9 09:34 .vscode
+
+../../42cursus/2_circle/ft_printf/.git:
+total 20
+drwxr-xr-x  8 fberthou 2023_lyon 166 Jan  9 09:47 .
+drwxr-xr-x  4 fberthou 2023_lyon 195 Jan  9 09:44 ..
+drwxr-xr-x  2 fberthou 2023_lyon   6 Jan  8 12:21 branches
+-rw-r--r--  1 fberthou 2023_lyon  15 Jan  9 09:47 COMMIT_EDITMSG
+-rw-r--r--  1 fberthou 2023_lyon 347 Jan  8 12:21 config
+-rw-r--r--  1 fberthou 2023_lyon  73 Jan  8 12:21 description
+-rw-r--r--  1 fberthou 2023_lyon  23 Jan  8 12:21 HEAD
+drwxr-xr-x  2 fberthou 2023_lyon 332 Jan  8 12:21 hooks
+-rw-r--r--  1 fberthou 2023_lyon 809 Jan  9 09:47 index
+drwxr-xr-x  2 fberthou 2023_lyon  21 Jan  8 12:21 info
+drwxr-xr-x  3 fberthou 2023_lyon  30 Jan  8 13:13 logs
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 objects
+drwxr-xr-x  5 fberthou 2023_lyon  46 Jan  8 13:13 refs
+
+../../42cursus/2_circle/ft_printf/.git/branches:
+total 0
+drwxr-xr-x 2 fberthou 2023_lyon   6 Jan  8 12:21 .
+drwxr-xr-x 8 fberthou 2023_lyon 166 Jan  9 09:47 ..
+
+../../42cursus/2_circle/ft_printf/.git/hooks:
+total 52
+drwxr-xr-x 2 fberthou 2023_lyon  332 Jan  8 12:21 .
+drwxr-xr-x 8 fberthou 2023_lyon  166 Jan  9 09:47 ..
+-rwxr-xr-x 1 fberthou 2023_lyon  478 Jan  8 12:21 applypatch-msg.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  896 Jan  8 12:21 commit-msg.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 3079 Jan  8 12:21 fsmonitor-watchman.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  189 Jan  8 12:21 post-update.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  424 Jan  8 12:21 pre-applypatch.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 1638 Jan  8 12:21 pre-commit.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  416 Jan  8 12:21 pre-merge-commit.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 1492 Jan  8 12:21 prepare-commit-msg.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 1348 Jan  8 12:21 pre-push.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 4898 Jan  8 12:21 pre-rebase.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  544 Jan  8 12:21 pre-receive.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 3610 Jan  8 12:21 update.sample
+
+../../42cursus/2_circle/ft_printf/.git/info:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon  21 Jan  8 12:21 .
+drwxr-xr-x 8 fberthou 2023_lyon 166 Jan  9 09:47 ..
+-rw-r--r-- 1 fberthou 2023_lyon 240 Jan  8 12:21 exclude
+
+../../42cursus/2_circle/ft_printf/.git/logs:
+total 4
+drwxr-xr-x 3 fberthou 2023_lyon  30 Jan  8 13:13 .
+drwxr-xr-x 8 fberthou 2023_lyon 166 Jan  9 09:47 ..
+-rw-r--r-- 1 fberthou 2023_lyon 338 Jan  9 09:47 HEAD
+drwxr-xr-x 4 fberthou 2023_lyon  34 Jan  8 13:13 refs
+
+../../42cursus/2_circle/ft_printf/.git/logs/refs:
+total 0
+drwxr-xr-x 4 fberthou 2023_lyon 34 Jan  8 13:13 .
+drwxr-xr-x 3 fberthou 2023_lyon 30 Jan  8 13:13 ..
+drwxr-xr-x 2 fberthou 2023_lyon 20 Jan  8 13:13 heads
+drwxr-xr-x 3 fberthou 2023_lyon 20 Jan  8 13:13 remotes
+
+../../42cursus/2_circle/ft_printf/.git/logs/refs/heads:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon  20 Jan  8 13:13 .
+drwxr-xr-x 4 fberthou 2023_lyon  34 Jan  8 13:13 ..
+-rw-r--r-- 1 fberthou 2023_lyon 338 Jan  9 09:47 master
+
+../../42cursus/2_circle/ft_printf/.git/logs/refs/remotes:
+total 0
+drwxr-xr-x 3 fberthou 2023_lyon 20 Jan  8 13:13 .
+drwxr-xr-x 4 fberthou 2023_lyon 34 Jan  8 13:13 ..
+drwxr-xr-x 2 fberthou 2023_lyon 20 Jan  8 13:13 origin
+
+../../42cursus/2_circle/ft_printf/.git/logs/refs/remotes/origin:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon  20 Jan  8 13:13 .
+drwxr-xr-x 3 fberthou 2023_lyon  20 Jan  8 13:13 ..
+-rw-r--r-- 1 fberthou 2023_lyon 320 Jan  9 09:47 master
+
+../../42cursus/2_circle/ft_printf/.git/objects:
+total 0
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 .
+drwxr-xr-x  8 fberthou 2023_lyon 166 Jan  9 09:47 ..
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 03
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 1a
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 27
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  9 09:47 37
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  9 09:47 56
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  9 09:47 5c
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 69
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 6a
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 76
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  9 09:47 97
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  9 09:47 a3
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 a5
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 b8
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 ba
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  9 09:47 cd
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 fd
+drwxr-xr-x  2 fberthou 2023_lyon   6 Jan  8 12:21 info
+drwxr-xr-x  2 fberthou 2023_lyon   6 Jan  8 12:21 pack
+
+../../42cursus/2_circle/ft_printf/.git/objects/03:
+total 4
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+-r--r--r--  1 fberthou 2023_lyon 431 Jan  8 13:13 c972b579349ae0c60d9e29c2bfda69fa4b43ae
+
+../../42cursus/2_circle/ft_printf/.git/objects/1a:
+total 4
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+-r--r--r--  1 fberthou 2023_lyon 298 Jan  8 13:13 5087d88ae04fc93f9de2c170139f03e141c99e
+
+../../42cursus/2_circle/ft_printf/.git/objects/27:
+total 4
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+-r--r--r--  1 fberthou 2023_lyon 606 Jan  8 13:13 13711bb76a4ba749bd1ce188a5c2aac7066e63
+
+../../42cursus/2_circle/ft_printf/.git/objects/37:
+total 4
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  9 09:47 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+-r--r--r--  1 fberthou 2023_lyon  58 Jan  9 09:47 b86f9418b256f503f4a9004f2fd4d1b098e50e
+
+../../42cursus/2_circle/ft_printf/.git/objects/56:
+total 4
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  9 09:47 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+-r--r--r--  1 fberthou 2023_lyon 711 Jan  9 09:47 7634d3063061eba056e7166fdd0287e90e6a28
+
+../../42cursus/2_circle/ft_printf/.git/objects/5c:
+total 4
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  9 09:47 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+-r--r--r--  1 fberthou 2023_lyon 286 Jan  9 09:47 362047050e91d359ee75decd9456984d6f6f8b
+
+../../42cursus/2_circle/ft_printf/.git/objects/69:
+total 4
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+-r--r--r--  1 fberthou 2023_lyon 486 Jan  8 13:13 2f3d29f7afc99bafc58f1aa9a63b26ab922773
+
+../../42cursus/2_circle/ft_printf/.git/objects/6a:
+total 4
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+-r--r--r--  1 fberthou 2023_lyon 718 Jan  8 13:13 d7f9ea26cd6bd7fbea559b4889c2c0d9c3fd49
+
+../../42cursus/2_circle/ft_printf/.git/objects/76:
+total 4
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+-r--r--r--  1 fberthou 2023_lyon 665 Jan  8 13:13 b077d3cf0c259304370d5d6447c4b89e886fa7
+
+../../42cursus/2_circle/ft_printf/.git/objects/97:
+total 4
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  9 09:47 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+-r--r--r--  1 fberthou 2023_lyon  72 Jan  9 09:47 fd76cea7f3aa04852eb167559864aa536f2853
+
+../../42cursus/2_circle/ft_printf/.git/objects/a3:
+total 4
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  9 09:47 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+-r--r--r--  1 fberthou 2023_lyon 488 Jan  9 09:47 d0b9aab8832642593e35256479cb1f2b14fd21
+
+../../42cursus/2_circle/ft_printf/.git/objects/a5:
+total 4
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+-r--r--r--  1 fberthou 2023_lyon 252 Jan  8 13:13 c90be0d3e20b9b09497a95355ce8b84d1cbb0e
+
+../../42cursus/2_circle/ft_printf/.git/objects/b8:
+total 4
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+-r--r--r--  1 fberthou 2023_lyon 719 Jan  8 13:13 d1dbac7d1c439a8bafad0c010a66af5846668f
+
+../../42cursus/2_circle/ft_printf/.git/objects/ba:
+total 4
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+-r--r--r--  1 fberthou 2023_lyon 680 Jan  8 13:13 5c2d1e19d4d9e38b79b812b926dbfc07333407
+
+../../42cursus/2_circle/ft_printf/.git/objects/cd:
+total 4
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  9 09:47 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+-r--r--r--  1 fberthou 2023_lyon 170 Jan  9 09:47 7daae78ac13d148e83fdada4e609a8b754ae0d
+
+../../42cursus/2_circle/ft_printf/.git/objects/fd:
+total 4
+drwxr-xr-x  2 fberthou 2023_lyon  52 Jan  8 13:13 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+-r--r--r--  1 fberthou 2023_lyon 134 Jan  8 13:13 cf44610286bc131034308e49289358c535d2df
+
+../../42cursus/2_circle/ft_printf/.git/objects/info:
+total 0
+drwxr-xr-x  2 fberthou 2023_lyon   6 Jan  8 12:21 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+
+../../42cursus/2_circle/ft_printf/.git/objects/pack:
+total 0
+drwxr-xr-x  2 fberthou 2023_lyon   6 Jan  8 12:21 .
+drwxr-xr-x 20 fberthou 2023_lyon 190 Jan  9 09:47 ..
+
+../../42cursus/2_circle/ft_printf/.git/refs:
+total 0
+drwxr-xr-x 5 fberthou 2023_lyon  46 Jan  8 13:13 .
+drwxr-xr-x 8 fberthou 2023_lyon 166 Jan  9 09:47 ..
+drwxr-xr-x 2 fberthou 2023_lyon  20 Jan  9 09:47 heads
+drwxr-xr-x 3 fberthou 2023_lyon  20 Jan  8 13:13 remotes
+drwxr-xr-x 2 fberthou 2023_lyon   6 Jan  8 12:21 tags
+
+../../42cursus/2_circle/ft_printf/.git/refs/heads:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon 20 Jan  9 09:47 .
+drwxr-xr-x 5 fberthou 2023_lyon 46 Jan  8 13:13 ..
+-rw-r--r-- 1 fberthou 2023_lyon 41 Jan  9 09:47 master
+
+../../42cursus/2_circle/ft_printf/.git/refs/remotes:
+total 0
+drwxr-xr-x 3 fberthou 2023_lyon 20 Jan  8 13:13 .
+drwxr-xr-x 5 fberthou 2023_lyon 46 Jan  8 13:13 ..
+drwxr-xr-x 2 fberthou 2023_lyon 20 Jan  9 09:47 origin
+
+../../42cursus/2_circle/ft_printf/.git/refs/remotes/origin:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon 20 Jan  9 09:47 .
+drwxr-xr-x 3 fberthou 2023_lyon 20 Jan  8 13:13 ..
+-rw-r--r-- 1 fberthou 2023_lyon 41 Jan  9 09:47 master
+
+../../42cursus/2_circle/ft_printf/.git/refs/tags:
+total 0
+drwxr-xr-x 2 fberthou 2023_lyon  6 Jan  8 12:21 .
+drwxr-xr-x 5 fberthou 2023_lyon 46 Jan  8 13:13 ..
+
+../../42cursus/2_circle/ft_printf/.vscode:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon  27 Jan  9 09:34 .
+drwxr-xr-x 4 fberthou 2023_lyon 195 Jan  9 09:44 ..
+-rw-r--r-- 1 fberthou 2023_lyon  70 Jan  9 09:34 settings.json
+
+../../42cursus/2_circle/get-next-line:
+total 24
+drwxr-xr-x 3 fberthou 2023_lyon  186 Jan  9 14:49 .
+drwxr-xr-x 5 fberthou 2023_lyon   64 Jan 16 18:09 ..
+-rw-r--r-- 1 fberthou 2023_lyon 2444 Jan  9 14:49 get_next_line_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon 1280 Jan  9 14:49 get_next_line_bonus.h
+-rw-r--r-- 1 fberthou 2023_lyon 2396 Jan  9 14:49 get_next_line.c
+-rw-r--r-- 1 fberthou 2023_lyon 1268 Jan  9 14:49 get_next_line.h
+-rw-r--r-- 1 fberthou 2023_lyon 1988 Jan  9 14:49 get_next_line_utils_bonus.c
+-rw-r--r-- 1 fberthou 2023_lyon 1988 Jan  9 14:49 get_next_line_utils.c
+drwxr-xr-x 8 fberthou 2023_lyon  163 Jan  9 14:49 .git
+
+../../42cursus/2_circle/get-next-line/.git:
+total 20
+drwxr-xr-x 8 fberthou 2023_lyon 163 Jan  9 14:49 .
+drwxr-xr-x 3 fberthou 2023_lyon 186 Jan  9 14:49 ..
+drwxr-xr-x 2 fberthou 2023_lyon   6 Jan  9 14:49 branches
+-rw-r--r-- 1 fberthou 2023_lyon 347 Jan  9 14:49 config
+-rw-r--r-- 1 fberthou 2023_lyon  73 Jan  9 14:49 description
+-rw-r--r-- 1 fberthou 2023_lyon  23 Jan  9 14:49 HEAD
+drwxr-xr-x 2 fberthou 2023_lyon 332 Jan  9 14:49 hooks
+-rw-r--r-- 1 fberthou 2023_lyon 585 Jan  9 14:49 index
+drwxr-xr-x 2 fberthou 2023_lyon  21 Jan  9 14:49 info
+drwxr-xr-x 3 fberthou 2023_lyon  30 Jan  9 14:49 logs
+drwxr-xr-x 4 fberthou 2023_lyon  30 Jan  9 14:49 objects
+-rw-r--r-- 1 fberthou 2023_lyon 114 Jan  9 14:49 packed-refs
+drwxr-xr-x 5 fberthou 2023_lyon  46 Jan  9 14:49 refs
+
+../../42cursus/2_circle/get-next-line/.git/branches:
+total 0
+drwxr-xr-x 2 fberthou 2023_lyon   6 Jan  9 14:49 .
+drwxr-xr-x 8 fberthou 2023_lyon 163 Jan  9 14:49 ..
+
+../../42cursus/2_circle/get-next-line/.git/hooks:
+total 52
+drwxr-xr-x 2 fberthou 2023_lyon  332 Jan  9 14:49 .
+drwxr-xr-x 8 fberthou 2023_lyon  163 Jan  9 14:49 ..
+-rwxr-xr-x 1 fberthou 2023_lyon  478 Jan  9 14:49 applypatch-msg.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  896 Jan  9 14:49 commit-msg.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 3079 Jan  9 14:49 fsmonitor-watchman.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  189 Jan  9 14:49 post-update.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  424 Jan  9 14:49 pre-applypatch.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 1638 Jan  9 14:49 pre-commit.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  416 Jan  9 14:49 pre-merge-commit.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 1492 Jan  9 14:49 prepare-commit-msg.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 1348 Jan  9 14:49 pre-push.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 4898 Jan  9 14:49 pre-rebase.sample
+-rwxr-xr-x 1 fberthou 2023_lyon  544 Jan  9 14:49 pre-receive.sample
+-rwxr-xr-x 1 fberthou 2023_lyon 3610 Jan  9 14:49 update.sample
+
+../../42cursus/2_circle/get-next-line/.git/info:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon  21 Jan  9 14:49 .
+drwxr-xr-x 8 fberthou 2023_lyon 163 Jan  9 14:49 ..
+-rw-r--r-- 1 fberthou 2023_lyon 240 Jan  9 14:49 exclude
+
+../../42cursus/2_circle/get-next-line/.git/logs:
+total 4
+drwxr-xr-x 3 fberthou 2023_lyon  30 Jan  9 14:49 .
+drwxr-xr-x 8 fberthou 2023_lyon 163 Jan  9 14:49 ..
+-rw-r--r-- 1 fberthou 2023_lyon 256 Jan  9 14:49 HEAD
+drwxr-xr-x 4 fberthou 2023_lyon  34 Jan  9 14:49 refs
+
+../../42cursus/2_circle/get-next-line/.git/logs/refs:
+total 0
+drwxr-xr-x 4 fberthou 2023_lyon 34 Jan  9 14:49 .
+drwxr-xr-x 3 fberthou 2023_lyon 30 Jan  9 14:49 ..
+drwxr-xr-x 2 fberthou 2023_lyon 20 Jan  9 14:49 heads
+drwxr-xr-x 3 fberthou 2023_lyon 20 Jan  9 14:49 remotes
+
+../../42cursus/2_circle/get-next-line/.git/logs/refs/heads:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon  20 Jan  9 14:49 .
+drwxr-xr-x 4 fberthou 2023_lyon  34 Jan  9 14:49 ..
+-rw-r--r-- 1 fberthou 2023_lyon 256 Jan  9 14:49 master
+
+../../42cursus/2_circle/get-next-line/.git/logs/refs/remotes:
+total 0
+drwxr-xr-x 3 fberthou 2023_lyon 20 Jan  9 14:49 .
+drwxr-xr-x 4 fberthou 2023_lyon 34 Jan  9 14:49 ..
+drwxr-xr-x 2 fberthou 2023_lyon 18 Jan  9 14:49 origin
+
+../../42cursus/2_circle/get-next-line/.git/logs/refs/remotes/origin:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon  18 Jan  9 14:49 .
+drwxr-xr-x 3 fberthou 2023_lyon  20 Jan  9 14:49 ..
+-rw-r--r-- 1 fberthou 2023_lyon 256 Jan  9 14:49 HEAD
+
+../../42cursus/2_circle/get-next-line/.git/objects:
+total 0
+drwxr-xr-x 4 fberthou 2023_lyon  30 Jan  9 14:49 .
+drwxr-xr-x 8 fberthou 2023_lyon 163 Jan  9 14:49 ..
+drwxr-xr-x 2 fberthou 2023_lyon   6 Jan  9 14:49 info
+drwxr-xr-x 2 fberthou 2023_lyon 121 Jan  9 14:49 pack
+
+../../42cursus/2_circle/get-next-line/.git/objects/info:
+total 0
+drwxr-xr-x 2 fberthou 2023_lyon  6 Jan  9 14:49 .
+drwxr-xr-x 4 fberthou 2023_lyon 30 Jan  9 14:49 ..
+
+../../42cursus/2_circle/get-next-line/.git/objects/pack:
+total 12
+drwxr-xr-x 2 fberthou 2023_lyon  121 Jan  9 14:49 .
+drwxr-xr-x 4 fberthou 2023_lyon   30 Jan  9 14:49 ..
+-r--r--r-- 1 fberthou 2023_lyon 1436 Jan  9 14:49 pack-7a8599004610d3a716dbbc0904cc10d44c5a1cb2.idx
+-r--r--r-- 1 fberthou 2023_lyon 4347 Jan  9 14:49 pack-7a8599004610d3a716dbbc0904cc10d44c5a1cb2.pack
+
+../../42cursus/2_circle/get-next-line/.git/refs:
+total 0
+drwxr-xr-x 5 fberthou 2023_lyon  46 Jan  9 14:49 .
+drwxr-xr-x 8 fberthou 2023_lyon 163 Jan  9 14:49 ..
+drwxr-xr-x 2 fberthou 2023_lyon  20 Jan  9 14:49 heads
+drwxr-xr-x 3 fberthou 2023_lyon  20 Jan  9 14:49 remotes
+drwxr-xr-x 2 fberthou 2023_lyon   6 Jan  9 14:49 tags
+
+../../42cursus/2_circle/get-next-line/.git/refs/heads:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon 20 Jan  9 14:49 .
+drwxr-xr-x 5 fberthou 2023_lyon 46 Jan  9 14:49 ..
+-rw-r--r-- 1 fberthou 2023_lyon 41 Jan  9 14:49 master
+
+../../42cursus/2_circle/get-next-line/.git/refs/remotes:
+total 0
+drwxr-xr-x 3 fberthou 2023_lyon 20 Jan  9 14:49 .
+drwxr-xr-x 5 fberthou 2023_lyon 46 Jan  9 14:49 ..
+drwxr-xr-x 2 fberthou 2023_lyon 18 Jan  9 14:49 origin
+
+../../42cursus/2_circle/get-next-line/.git/refs/remotes/origin:
+total 4
+drwxr-xr-x 2 fberthou 2023_lyon 18 Jan  9 14:49 .
+drwxr-xr-x 3 fberthou 2023_lyon 20 Jan  9 14:49 ..
+-rw-r--r-- 1 fberthou 2023_lyon 32 Jan  9 14:49 HEAD
+
+../../42cursus/2_circle/get-next-line/.git/refs/tags:
+total 0
+drwxr-xr-x 2 fberthou 2023_lyon  6 Jan  9 14:49 .
+drwxr-xr-x 5 fberthou 2023_lyon 46 Jan  9 14:49 ..
+
+../../42cursus/3_circle:
+total 0
+drwxr-xr-x 6 fberthou 2023_lyon  80 Feb 20 22:42 .
+drwxr-xr-x 8 fberthou 2023_lyon 104 Feb 22 18:30 ..
+drwxr-xr-x 4 fberthou 2023_lyon  75 Feb 13 23:43 p_swap
+drwxr-xr-x 3 fberthou 2023_lyon  34 Feb 14 00:58 push_swap
+drwxr-xr-x 7 fberthou 2023_lyon 112 Feb 22 18:42 repo_minitalk
+drwxr-xr-x 7 fberthou 2023_lyon 110 Feb 20 22:42 tests_minitalk
+
+../../42cursus/3_circle/p_swap:
+total 8
+drwxr-xr-x 4 fberthou 2023_lyon   75 Feb 13 23:43 .
+drwxr-xr-x 6 fberthou 2023_lyon   80 Feb 20 22:42 ..
+-rw-r--r-- 1 fberthou 2023_lyon 1237 Jan 11 16:20 .Makefile
+-rw-r--r-- 1 fberthou 2023_lyon 2051 Jan 25 16:21 push_swap.h
+drwxr-xr-x 8 fberthou 2023_lyon  217 Jan 18 19:54 visualizer
+drwxr-xr-x 2 fberthou 2023_lyon   27 Jan 18 02:49 .vscode
+
+../../42cursus/3_circle/p_swap/visualizer:
+total 108
+drwxr-xr-x 8 fberthou 2023_lyon   217 Jan 18 19:54 .
+drwxr-xr-x 4 fberthou 2023_lyon    75 Feb 13 23:43 ..
+drwxr-xr-x 8 fberthou 2023_lyon   174 Jan 18 20:01 build
+-rw-r--r-- 1 fberthou 2023_lyon  3928 Jan 18 19:53 .clang-format
+-rw-r--r-- 1 fberthou 2023_lyon   344 Jan 18 19:53 CMakeLists.txt
+drwxr-xr-x 5 fberthou 2023_lyon    72 Jan 18 19:53 dependencies
+drwxr-xr-x 8 fberthou 2023_lyon   163 Jan 18 19:53 .git
+-rw-r--r-- 1 fberthou 2023_lyon    28 Jan 18 19:53 .gitignore
+-rw-r--r-- 1 fberthou 2023_lyon   230 Jan 18 19:53 imgui.ini
+drwxr-xr-x 2 fberthou 2023_lyon    68 Jan 18 19:53 include
+-rw-r--r-- 1 fberthou 2023_lyon 35147 Jan 18 19:53 LICENSE
+-rwxr-xr-x 1 fberthou 2023_lyon 50968 Jan 18 19:53 push_swap
+-rw-r--r-- 1 fberthou 2023_lyon  2243 Jan 18 19:53 README.md
+drwxr-xr-x 2 fberthou 2023_lyon   114 Jan 18 19:53 src
+drwxr-xr-x 2 fberthou 2023_lyon    76 Jan 18 19:53 tests
+
+../../42cursus/3_circle/p_swap/visualizer/build:
+total 60
+drwxr-xr-x  8 fberthou 2023_lyon   174 Jan 18 20:01 .
+drwxr-xr-x  8 fberthou 2023_lyon   217 Jan 18 19:54 ..
+drwxr-xr-x  2 fberthou 2023_lyon    54 Jan 18 20:01 bin
+-rw-r--r--  1 fberthou 2023_lyon 38457 Jan 18 19:54 CMakeCache.txt
+drwxr-xr-x  4 fberthou 2023_lyon   213 Jan 18 20:01 CMakeFiles
+-rw-r--r--  1 fberthou 2023_lyon  2180 Jan 18 19:54 cmake_install.cmake
+drwxr-xr-x  6 fberthou 2023_lyon   111 Jan 18 20:00 dependencies
+drwxr-xr-x 14 fberthou 2023_lyon   253 Jan 18 19:54 _deps
+-rw-r--r--  1 fberthou 2023_lyon   222 Jan 18 20:01 imgui.ini
+-rw-r--r--  1 fberthou 2023_lyon  9226 Jan 18 20:00 Makefile
+drwxr-xr-x  3 fberthou 2023_lyon    93 Jan 18 20:00 src
+drwxr-xr-x  3 fberthou 2023_lyon    67 Jan 18 20:00 tests
+
+../../42cursus/3_circle/p_swap/visualizer/build/bin:
+total 2964
+drwxr-xr-x 2 fberthou 2023_lyon      54 Jan 18 20:01 .
+drwxr-xr-x 8 fberthou 2023_lyon     174 Jan 18 20:01 ..
+-rw-r--r-- 1 fberthou 2023_lyon     230 Jan 18 19:54 imgui.ini
+-rwxr-xr-x 1 fberthou 2023_lyon 2821664 Jan 18 20:01 tests
+-rwxr-xr-x 1 fberthou 2023_lyon  207096 Jan 18 20:00 visualizer
+
+../../42cursus/3_circle/p_swap/visualizer/build/CMakeFiles:
+total 96
+drwxr-xr-x 4 fberthou 2023_lyon   213 Jan 18 20:01 .
+drwxr-xr-x 8 fberthou 2023_lyon   174 Jan 18 20:01 ..
+drwxr-xr-x 4 fberthou 2023_lyon   209 Jan 18 19:54 3.16.3
+-rw-r--r-- 1 fberthou 2023_lyon    85 Jan 18 20:00 cmake.check_cache
+-rw-r--r-- 1 fberthou 2023_lyon   702 Jan 18 19:54 CMakeDirectoryInformation.cmake
+-rw-r--r-- 1 fberthou 2023_lyon 38280 Jan 18 19:54 CMakeOutput.log
+drwxr-xr-x 2 fberthou 2023_lyon     6 Jan 18 19:54 CMakeTmp
+-rw-r--r-- 1 fberthou 2023_lyon 23622 Jan 18 20:00 Makefile2
+-rw-r--r-- 1 fberthou 2023_lyon  5640 Jan 18 20:00 Makefile.cmake
+-rw-r--r-- 1 fberthou 2023_lyon     3 Jan 18 20:00 progress.marks
+-rw-r--r-- 1 fberthou 2023_lyon 10496 Jan 18 20:00 TargetDirectories.txt
+
+../../42cursus/3_circle/p_swap/visualizer/build/CMakeFiles/3.16.3:
+total 48
+drwxr-xr-x 4 fberthou 2023_lyon   209 Jan 18 19:54 .
+drwxr-xr-x 4 fberthou 2023_lyon   213 Jan 18 20:01 ..
+-rw-r--r-- 1 fberthou 2023_lyon  2493 Jan 18 19:54 CMakeCCompiler.cmake
+-rw-r--r-- 1 fberthou 2023_lyon  5520 Jan 18 19:54 CMakeCXXCompiler.cmake
+-rwxr-xr-x 1 fberthou 2023_lyon 16312 Jan 18 19:54 CMakeDetermineCompilerABI_C.bin
+-rwxr-xr-x 1 fberthou 2023_lyon 16320 Jan 18 19:54 CMakeDetermineCompilerABI_CXX.bin
+-rw-r--r-- 1 fberthou 2023_lyon   402 Jan 18 19:54 CMakeSystem.cmake
+drwxr-xr-x 3 fberthou 2023_lyon    56 Jan 18 19:54 CompilerIdC
+drwxr-xr-x 3 fberthou 2023_lyon    60 Jan 18 19:54 CompilerIdCXX
+
+../../42cursus/3_circle/p_swap/visualizer/build/CMakeFiles/3.16.3/CompilerIdC:
+total 40
+drwxr-xr-x 3 fberthou 2023_lyon    56 Jan 18 19:54 .
+drwxr-xr-x 4 fberthou 2023_lyon   209 Jan 18 19:54 ..
+-rwxr-xr-x 1 fberthou 2023_lyon 16472 Jan 18 19:54 a.out
+-rw-r--r-- 1 fberthou 2023_lyon 20271 Jan 18 19:54 CMakeCCompilerId.c
+drwxr-xr-x 2 fberthou 2023_lyon     6 Jan 18 19:54 tmp
+
+../../42cursus/3_circle/p_swap/visualizer/build/CMakeFiles/3.16.3/CompilerIdC/tmp:
+total 0
+drwxr-xr-x 2 fberthou 2023_lyon  6 Jan 18 19:54 .
+drwxr-xr-x 3 fberthou 2023_lyon 56 Jan 18 19:54 ..
+
+../../42cursus/3_circle/p_swap/visualizer/build/CMakeFiles/3.16.3/CompilerIdCXX:
+total 40
+drwxr-xr-x 3 fberthou 2023_lyon    60 Jan 18 19:54 .
+drwxr-xr-x 4 fberthou 2023_lyon   209 Jan 18 19:54 ..
+-rwxr-xr-x 1 fberthou 2023_lyon 16480 Jan 18 19:54 a.out
+-rw-r--r-- 1 fberthou 2023_lyon 20091 Jan 18 19:54 CMakeCXXCompilerId.cpp
+drwxr-xr-x 2 fberthou 2023_lyon     6 Jan 18 19:54 tmp
+
+../../42cursus/3_circle/p_swap/visualizer/build/CMakeFiles/3.16.3/CompilerIdCXX/tmp:
+total 0
+drwxr-xr-x 2 fberthou 2023_lyon  6 Jan 18 19:54 .
+drwxr-xr-x 3 fberthou 2023_lyon 60 Jan 18 19:54 ..
+
+../../42cursus/3_circle/p_swap/visualizer/build/CMakeFiles/CMakeTmp:
+total 0
+drwxr-xr-x 2 fberthou 2023_lyon   6 Jan 18 19:54 .
+drwxr-xr-x 4 fberthou 2023_lyon 213 Jan 18 20:01 ..
+
+../../42cursus/3_circle/p_swap/visualizer/build/dependencies:
+total 12
+drwxr-xr-x 6 fberthou 2023_lyon  111 Jan 18 20:00 .
+drwxr-xr-x 8 fberthou 2023_lyon  174 Jan 18 20:01 ..
+drwxr-xr-x 3 fberthou 2023_lyon   67 Jan 18 20:00 catch2
+drwxr-xr-x 2 fberthou 2023_lyon   67 Jan 18 20:00 CMakeFiles
+-rw-r--r-- 1 fberthou 2023_lyon 1810 Jan 18 19:54 cmake_install.cmake
+drwxr-xr-x 3 fberthou 2023_lyon   67 Jan 18 20:00 imgui-sfml
+-rw-r--r-- 1 fberthou 2023_lyon 6496 Jan 18 19:54 Makefile
+drwxr-xr-x 3 fberthou 2023_lyon   67 Jan 18 20:00 sfml
+
+../../42cursus/3_circle/p_swap/visualizer/build/dependencies/catch2:
+total 12
+drwxr-xr-x 3 fberthou 2023_lyon   67 Jan 18 20:00 .
+drwxr-xr-x 6 fberthou 2023_lyon  111 Jan 18 20:00 ..
+drwxr-xr-x 2 fberthou 2023_lyon   67 Jan 18 20:00 CMakeFiles
+-rw-r--r-- 1 fberthou 2023_lyon 1384 Jan 18 19:54 cmake_install.cmake
+-rw-r--r-- 1 fberthou 2023_lyon 6531 Jan 18 19:54 Makefile
+
+../../42cursus/3_circle/p_swap/visualizer/build/dependencies/catch2/CMakeFiles:
+total 8
+drwxr-xr-x 2 fberthou 2023_lyon  67 Jan 18 20:00 .
+drwxr-xr-x 3 fberthou 2023_lyon  67 Jan 18 20:00 ..
+-rw-r--r-- 1 fberthou 2023_lyon 702 Jan 18 19:54 CMakeDirectoryInformation.cmake
+-rw-r--r-- 1 fberthou 2023_lyon   2 Jan 18 20:00 progress.marks
+
+../../42cursus/3_circle/p_swap/visualizer/build/dependencies/CMakeFiles:
+total 8
+drwxr-xr-x 2 fberthou 2023_lyon  67 Jan 18 20:00 .
+drwxr-xr-x 6 fberthou 2023_lyon 111 Jan 18 20:00 ..
+-rw-r--r-- 1 fberthou 2023_lyon 702 Jan 18 19:54 CMakeDirectoryInformation.cmake
+-rw-r--r-- 1 fberthou 2023_lyon   3 Jan 18 20:00 progress.marks
+
+../../42cursus/3_circle/p_swap/visualizer/build/dependencies/imgui-sfml:
+total 12
+drwxr-xr-x 3 fberthou 2023_lyon   67 Jan 18 20:00 .
+drwxr-xr-x 6 fberthou 2023_lyon  111 Jan 18 20:00 ..
+drwxr-xr-x 2 fberthou 2023_lyon   67 Jan 18 20:00 CMakeFiles
+-rw-r--r-- 1 fberthou 2023_lyon 1392 Jan 18 19:54 cmake_install.cmake
+-rw-r--r-- 1 fberthou 2023_lyon 6551 Jan 18 19:54 Makefile
+
+../../42cursus/3_circle/p_swap/visualizer/build/dependencies/imgui-sfml/CMakeFiles:
+total 8
+drwxr-xr-x 2 fberthou 2023_lyon  67 Jan 18 20:00 .
+drwxr-xr-x 3 fberthou 2023_lyon  67 Jan 18 20:00 ..
+-rw-r--r-- 1 fberthou 2023_lyon 702 Jan 18 19:54 CMakeDirectoryInformation.cmake
+-rw-r--r-- 1 fberthou 2023_lyon   3 Jan 18 20:00 progress.marks
+
+../../42cursus/3_circle/p_swap/visualizer/build/dependencies/sfml:
+total 12
+drwxr-xr-x 3 fberthou 2023_lyon   67 Jan 18 20:00 .
+drwxr-xr-x 6 fberthou 2023_lyon  111 Jan 18 20:00 ..
+drwxr-xr-x 2 fberthou 2023_lyon   67 Jan 18 20:00 CMakeFiles
+-rw-r--r-- 1 fberthou 2023_lyon 1380 Jan 18 19:54 cmake_install.cmake
+-rw-r--r-- 1 fberthou 2023_lyon 6521 Jan 18 19:54 Makefile
+
+../../42cursus/3_circle/p_swap/visualizer/build/dependencies/sfml/CMakeFiles:
+total 8
+drwxr-xr-x 2 fberthou 2023_lyon  67 Jan 18 20:00 .
+drwxr-xr-x 3 fberthou 2023_lyon  67 Jan 18 20:00 ..
+-rw-r--r-- 1 fberthou 2023_lyon 702 Jan 18 19:54 CMakeDirectoryInformation.cmake
+-rw-r--r-- 1 fberthou 2023_lyon   3 Jan 18 20:00 progress.marks
+
+../../42cursus/3_circle/p_swap/visualizer/build/_deps:
+total 8
+drwxr-xr-x 14 fberthou 2023_lyon  253 Jan 18 19:54 .
+drwxr-xr-x  8 fberthou 2023_lyon  174 Jan 18 20:01 ..
+drwxr-xr-x  3 fberthou 2023_lyon   67 Jan 18 20:00 catch2-build
+drwxr-xr-x 17 fberthou 2023_lyon 4096 Jan 18 19:54 catch2-src
+drwxr-xr-x  4 fberthou 2023_lyon  141 Jan 18 20:00 catch2-subbuild
+drwxr-xr-x  2 fberthou 2023_lyon    6 Jan 18 19:54 imgui-build
+drwxr-xr-x  3 fberthou 2023_lyon   91 Jan 18 20:00 imgui-sfml-build
+drwxr-xr-x  6 fberthou 2023_lyon  287 Jan 18 19:54 imgui-sfml-src
+drwxr-xr-x  4 fberthou 2023_lyon  145 Jan 18 20:00 imgui-sfml-subbuild
+drwxr-xr-x  8 fberthou 2023_lyon 4096 Jan 18 19:54 imgui-src
+drwxr-xr-x  4 fberthou 2023_lyon  140 Jan 18 20:00 imgui-subbuild
+drwxr-xr-x  6 fberthou 2023_lyon  224 Jan 18 20:00 sfml-build
+drwxr-xr-x 10 fberthou 2023_lyon  236 Oct 15  2018 sfml-src
+drwxr-xr-x  4 fberthou 2023_lyon  139 Jan 18 20:00 sfml-subbuild
+
+../../42cursus/3_circle/p_swap/visualizer/build/_deps/catch2-build:
+total 12
+drwxr-xr-x  3 fberthou 2023_lyon   67 Jan 18 20:00 .
+drwxr-xr-x 14 fberthou 2023_lyon  253 Jan 18 19:54 ..
+drwxr-xr-x  2 fberthou 2023_lyon   67 Jan 18 20:00 CMakeFiles
+-rw-r--r--  1 fberthou 2023_lyon 1173 Jan 18 19:54 cmake_install.cmake
+-rw-r--r--  1 fberthou 2023_lyon 6526 Jan 18 19:54 Makefile
+
+../../42cursus/3_circle/p_swap/visualizer/build/_deps/catch2-build/CMakeFiles:
+total 8
+drwxr-xr-x 2 fberthou 2023_lyon  67 Jan 18 20:00 .
+drwxr-xr-x 3 fberthou 2023_lyon  67 Jan 18 20:00 ..
+-rw-r--r-- 1 fberthou 2023_lyon 702 Jan 18 19:54 CMakeDirectoryInformation.cmake
+-rw-r--r-- 1 fberthou 2023_lyon   2 Jan 18 20:00 progress.marks
+
+../../42cursus/3_circle/p_swap/visualizer/build/_deps/catch2-src:
+total 76
+drwxr-xr-x 17 fberthou 2023_lyon 4096 Jan 18 19:54 .
+drwxr-xr-x 14 fberthou 2023_lyon  253 Jan 18 19:54 ..
+-rw-r--r--  1 fberthou 2023_lyon 2702 Jan 18 19:54 appveyor.yml
+drwxr-xr-x  2 fberthou 2023_lyon   88 Jan 18 19:54 artwork
+-rw-r--r--  1 fberthou 2023_lyon  436 Jan 18 19:54 BUILD.bazel
+-rw-r--r--  1 fbe
